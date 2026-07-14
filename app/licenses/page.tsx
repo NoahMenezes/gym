@@ -21,7 +21,7 @@ export default function Licenses() {
 <h2>Permitted use</h2>
 <p>You may view and share links to this website. Any other use, including copying layouts, code, or assets, requires written consent.</p>
 <h2>Contact</h2>
-<p>For licensing enquiries, contact <a href="mailto:hello@lumoradental.com">hello@lumoradental.com</a>.</p>
+<p>For licensing enquiries, contact <a href="mailto:contact@vgenstudio.com">contact@vgenstudio.com</a>.</p>
 </main>
 <div class="legal-foot">© 2026 Iron Fitness. All rights reserved. · <a href="/terms" style={{"color": "#758696"}}>Terms &amp; Conditions</a></div>
 

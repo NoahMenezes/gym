@@ -237,11 +237,11 @@ export default function Home() {
 <h2 class="our-info_title">Emergency Contact</h2>
 </div>
 <div class="our-info_item-body">
-<a class="our-info_item-link w-inline-block" href="tel:+919307512816">
-<div class="our-info_item-para">Call : +91 9307512816</div>
+<a class="our-info_item-link w-inline-block" href="tel:+919518346262">
+<div class="our-info_item-para">Call : +91 9518346262</div>
 </a>
-<a class="our-info_item-link w-inline-block" href="mailto:hello@lumoradental.com?subject=contact">
-<div class="our-info_item-para">Email: hello@lumoradental.com</div>
+<a class="our-info_item-link w-inline-block" href="mailto:contact@vgenstudio.com?subject=contact">
+<div class="our-info_item-para">Email: contact@vgenstudio.com</div>
 </a>
 </div>
 </div>
@@ -1667,11 +1667,11 @@ export default function Home() {
 <img alt="Iron logo" class="brand_logo" loading="lazy" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="footer-contact_wrap">
-<a class="footer-contact_link w-inline-block" href="tel:+91 9307512816">
-<div>+91 9307512816</div>
+<a class="footer-contact_link w-inline-block" href="tel:+91 9518346262">
+<div>+91 9518346262</div>
 </a>
-<a class="footer-contact_link w-inline-block" href="mailto:hello@lumoradental.com?subject=Support">
-<div>hello@lumoradental.com</div>
+<a class="footer-contact_link w-inline-block" href="mailto:contact@vgenstudio.com?subject=Support">
+<div>contact@vgenstudio.com</div>
 </a>
 </div>
 </div>

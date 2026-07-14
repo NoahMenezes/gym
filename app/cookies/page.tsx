@@ -20,7 +20,7 @@ export default function Cookies() {
 <h2>Managing cookies</h2>
 <p>You can control or delete cookies through your browser settings at any time. Blocking some cookies may affect how parts of the site work.</p>
 <h2>Contact</h2>
-<p>Questions about our use of cookies? Email <a href="mailto:hello@lumoradental.com">hello@lumoradental.com</a>.</p>
+<p>Questions about our use of cookies? Email <a href="mailto:contact@vgenstudio.com">contact@vgenstudio.com</a>.</p>
 </main>
 <div class="legal-foot">© 2026 Iron Fitness. All rights reserved. · <a href="/terms" style={{"color": "#758696"}}>Terms &amp; Conditions</a></div>
 

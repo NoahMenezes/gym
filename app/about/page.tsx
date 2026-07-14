@@ -1342,11 +1342,11 @@ export default function About() {
 <img alt="Iron logo" class="brand_logo" loading="lazy" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="footer-contact_wrap">
-<a class="footer-contact_link w-inline-block" href="tel:+91 9307512816">
-<div>+91 9307512816</div>
+<a class="footer-contact_link w-inline-block" href="tel:+91 9518346262">
+<div>+91 9518346262</div>
 </a>
-<a class="footer-contact_link w-inline-block" href="mailto:hello@lumoradental.com?subject=Support">
-<div>hello@lumoradental.com</div>
+<a class="footer-contact_link w-inline-block" href="mailto:contact@vgenstudio.com?subject=Support">
+<div>contact@vgenstudio.com</div>
 </a>
 </div>
 </div>

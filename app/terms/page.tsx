@@ -22,7 +22,7 @@ export default function Terms() {
 <h2>Limitation of liability</h2>
 <p>Iron Fitness is not liable for any indirect or incidental damages arising from the use of this website. Treatment outcomes vary between individuals and are discussed with you directly during your visit.</p>
 <h2>Contact</h2>
-<p>For any questions about these terms, contact <a href="mailto:hello@lumoradental.com">hello@lumoradental.com</a>.</p>
+<p>For any questions about these terms, contact <a href="mailto:contact@vgenstudio.com">contact@vgenstudio.com</a>.</p>
 </main>
 <div class="legal-foot">© 2026 Iron Fitness. All rights reserved. · <a href="/privacy" style={{"color": "#758696"}}>Privacy Policy</a></div>
 

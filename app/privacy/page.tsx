@@ -20,9 +20,9 @@ export default function Privacy() {
 <h2>How we protect it</h2>
 <p>We treat your health and contact information as confidential and store it securely. We never sell your personal data. We share it only with the clinicians and systems directly involved in your care, or where required by law.</p>
 <h2>Your choices</h2>
-<p>You may request access to, correction of, or deletion of your information at any time by emailing <a href="mailto:hello@lumoradental.com">hello@lumoradental.com</a>. You can opt out of non-essential communications whenever you like.</p>
+<p>You may request access to, correction of, or deletion of your information at any time by emailing <a href="mailto:contact@vgenstudio.com">contact@vgenstudio.com</a>. You can opt out of non-essential communications whenever you like.</p>
 <h2>Contact</h2>
-<p>Questions about this policy? Reach us at <a href="mailto:hello@lumoradental.com">hello@lumoradental.com</a> or book a visit through our <a href="https://wa.me/9518346262">appointment page</a>.</p>
+<p>Questions about this policy? Reach us at <a href="mailto:contact@vgenstudio.com">contact@vgenstudio.com</a> or book a visit through our <a href="https://wa.me/9518346262">appointment page</a>.</p>
 </main>
 <div class="legal-foot">© 2026 Iron Fitness. All rights reserved. · <a href="/terms" style={{"color": "#758696"}}>Terms &amp; Conditions</a></div>
 

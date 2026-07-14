@@ -123,3 +123,21 @@ a, .link, .navbar_link {
 .legal-wrap p, .legal-wrap li { color: #ccc !important; }
 .legal-nav { border-bottom: 1px solid #333 !important; }
 
+/* Fix FAQ Visibility */
+.faq_item, .faq_header, .faq_description, .faq-description_inner, .faq-element, .faq_info {
+  background-color: transparent !important;
+  color: #fff !important;
+}
+.faq-header_title, .faq-cta_info-title {
+  color: #00ff66 !important;
+}
+.faq_list, .faq-cta_info {
+  background-color: #1a1a1a !important;
+  border: 1px solid #333 !important;
+  border-radius: 8px;
+}
+.faq-cta_icon {
+  stroke: #00ff66 !important;
+}
+
+
