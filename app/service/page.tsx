@@ -230,7 +230,7 @@ export default function Service() {
 <div class="service-item_small-text" id="w-node-a92f16b9-75d8-78c4-a39a-766877b28187-965ec33e">What includes</div>
 <div class="service-item_details">
 <div class="service-thumbnail_wrap">
-<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="/assets/img/gen_service-thumbnail-image.webp"/>
 </div>
 <div class="service-tag_wrap">
 <div class="service_tag">
@@ -314,7 +314,7 @@ export default function Service() {
 <div class="service-item_small-text" id="w-node-a92f16b9-75d8-78c4-a39a-766877b28187-965ec33e">What includes</div>
 <div class="service-item_details">
 <div class="service-thumbnail_wrap">
-<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="/assets/img/gen_service-thumbnail-image-2.webp"/>
 </div>
 <div class="service-tag_wrap">
 <div class="service_tag">
@@ -398,7 +398,7 @@ export default function Service() {
 <div class="service-item_small-text" id="w-node-a92f16b9-75d8-78c4-a39a-766877b28187-965ec33e">What includes</div>
 <div class="service-item_details">
 <div class="service-thumbnail_wrap">
-<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="/assets/img/gen_service-thumbnail-image-3.webp"/>
 </div>
 <div class="service-tag_wrap">
 <div class="service_tag">
@@ -482,7 +482,7 @@ export default function Service() {
 <div class="service-item_small-text" id="w-node-a92f16b9-75d8-78c4-a39a-766877b28187-965ec33e">What includes</div>
 <div class="service-item_details">
 <div class="service-thumbnail_wrap">
-<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="/assets/img/gen_service-thumbnail-image-4.webp"/>
 </div>
 <div class="service-tag_wrap">
 <div class="service_tag">

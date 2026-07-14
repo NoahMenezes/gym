@@ -5,7 +5,7 @@ export default function About() {
 <div class="navbar_wrap w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" fs-scrolldisable-element="smart-nav" role="banner">
 <div class="navbar_container">
 <a class="navbar_logo w-nav-brand" href="/">
-<img alt="Iron logo" class="logo_image" loading="eager" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Iron logo" class="logo_image" loading="eager" src="https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="navbar-content_wrap">
 <nav class="navbar_menu w-nav-menu" role="navigation">
@@ -200,7 +200,7 @@ export default function About() {
 </div>
 </div>
 <div class="about-hero_image-wrap" data-w-id="13f35a51-6f31-0fc5-cc8d-c0464d8ccc39" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
-<img alt="About image" class="about-hero_image" data-w-id="0eb5616a-32aa-f331-47e8-42e10447f18d" loading="lazy" sizes="(max-width: 2320px) 100vw, 2320px" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" style={{-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}}/>
+<img alt="About image" class="about-hero_image" data-w-id="0eb5616a-32aa-f331-47e8-42e10447f18d" loading="lazy" sizes="(max-width: 2320px) 100vw, 2320px" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=600&amp;auto=format&amp;fit=crop" style={{-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}}/>
 </div>
 </div>
 </div>
@@ -259,13 +259,13 @@ export default function About() {
 </div>
 <div class="story-images_list">
 <div class="story-images_wrap" id="w-node-_8219b02b-eaf7-ea81-91e1-723c676732d0-965ec33d">
-<img alt="Story image" class="story_images" loading="lazy" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Story image" class="story_images" loading="lazy" src="https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="story-images_wrap is-odd" id="w-node-_51690311-096a-fe57-6ab3-4620d5cde4a0-965ec33d">
-<img alt="Story image" class="story_images" loading="lazy" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Story image" class="story_images" loading="lazy" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="story-images_wrap is-big" id="w-node-_1f52818f-c54a-441c-f0ab-584a4015e415-965ec33d">
-<img alt="Story image" class="story_images" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Story image" class="story_images" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="story-images_wrap is-odd" id="w-node-d4a9463e-8c87-eed9-77c9-1268cc89c355-965ec33d">
 <img alt="Story image" class="story_images" loading="lazy" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
@@ -370,26 +370,26 @@ export default function About() {
 <div class="team_list w-dyn-items" role="list">
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
+<a aria-label="trainer's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="team_image" loading="lazy" src="https://images.unsplash.com/photo-1548690312-e3b507d8c110?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
-<h3 class="team-menmber_name">Dr. Olivia Thompson</h3>
+<a aria-label="trainer's profile" class="team-menmber_wrap w-inline-block" href="/about">
+<h3 class="team-menmber_name">Olivia Thompson</h3>
 </a>
 <div class="team-menuber_info">
-<p class="team-menuber_designation">Pediatric Trainer</p>
+<p class="team-menuber_designation">Senior Coach</p>
 <div class="team-menuber_social">
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.0287 2.00098C14.1541 2.00284 14.7244 2.0088 15.2172 2.02347L15.4113 2.02981C15.6355 2.03778 15.8567 2.04778 16.1234 2.06028C17.1875 2.10945 17.9134 2.27778 18.5509 2.52528C19.21 2.77945 19.7667 3.12278 20.3225 3.67862C20.8775 4.23445 21.2209 4.79278 21.4759 5.45028C21.7225 6.08695 21.8909 6.81362 21.9409 7.87778C21.9528 8.14445 21.9624 8.36565 21.9703 8.58989L21.9766 8.78398C21.9912 9.27672 21.9979 9.8471 22 10.9725L22.0008 11.7181C22.0009 11.8092 22.0009 11.9032 22.0009 12.0002L22.0008 12.2823L22.0002 13.028C21.9983 14.1534 21.9924 14.7238 21.9777 15.2165L21.9713 15.4106C21.9634 15.6349 21.9534 15.8561 21.9409 16.1227C21.8917 17.1869 21.7225 17.9127 21.4759 18.5502C21.2217 19.2094 20.8775 19.7661 20.3225 20.3219C19.7667 20.8769 19.2075 21.2202 18.5509 21.4752C17.9134 21.7219 17.1875 21.8902 16.1234 21.9402C15.8567 21.9521 15.6355 21.9618 15.4113 21.9696L15.2172 21.9759C14.7244 21.9906 14.1541 21.9972 13.0287 21.9994L12.283 22.0002C12.1919 22.0002 12.0979 22.0002 12.0009 22.0002H11.7188L10.9731 21.9995C9.84771 21.9977 9.27733 21.9917 8.78458 21.977L8.5905 21.9707C8.36625 21.9627 8.14505 21.9527 7.87839 21.9402C6.81422 21.8911 6.08922 21.7219 5.45089 21.4752C4.79255 21.2211 4.23505 20.8769 3.67922 20.3219C3.12339 19.7661 2.78089 19.2069 2.52589 18.5502C2.27839 17.9127 2.11089 17.1869 2.06089 16.1227C2.04901 15.8561 2.03932 15.6349 2.03147 15.4106L2.02518 15.2165C2.01055 14.7238 2.00388 14.1534 2.00172 13.028L2.00159 10.9725C2.00345 9.8471 2.0094 9.27672 2.02407 8.78398L2.03042 8.58989C2.03839 8.36565 2.04839 8.14445 2.06089 7.87778C2.11005 6.81278 2.27839 6.08778 2.52589 5.45028C2.78005 4.79195 3.12339 4.23445 3.67922 3.67862C4.23505 3.12278 4.79339 2.78028 5.45089 2.52528C6.08839 2.27778 6.81339 2.11028 7.87839 2.06028C8.14505 2.04841 8.36625 2.03872 8.5905 2.03087L8.78458 2.02458C9.27733 2.00994 9.84771 2.00327 10.9731 2.00111L13.0287 2.00098ZM12.0009 7.00028C9.23799 7.00028 7.00089 9.23981 7.00089 12.0002C7.00089 14.7631 9.24042 17.0002 12.0009 17.0002C14.7638 17.0002 17.0009 14.7607 17.0009 12.0002C17.0009 9.23738 14.7613 7.00028 12.0009 7.00028ZM12.0009 9.00028C13.6578 9.00028 15.0009 10.3429 15.0009 12.0002C15.0009 13.6571 13.6582 15.0002 12.0009 15.0002C10.344 15.0002 9.00089 13.6576 9.00089 12.0002C9.00089 10.3433 10.3435 9.00028 12.0009 9.00028ZM17.2509 5.50028C16.5616 5.50028 16.0009 6.06019 16.0009 6.74943C16.0009 7.43868 16.5608 7.99945 17.2509 7.99945C17.9401 7.99945 18.5009 7.43955 18.5009 6.74943C18.5009 6.06019 17.9392 5.49942 17.2509 5.50028Z" fill="currentColor"></path>
 </svg>
 </a>
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M17.6858 3.06152L12.6891 8.77327L8.36887 3.06152H2.11169L9.58803 12.8377L2.50219 20.9365H5.53636L11.0052 14.6876L15.7847 20.9365H21.8869L14.0934 10.6332L20.7182 3.06152H17.6858ZM16.6216 19.1215L5.65277 4.78119H7.45586L18.3018 19.1215H16.6216Z" fill="currentColor"></path>
 </svg>
@@ -401,26 +401,26 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
+<a aria-label="trainer's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
-<h3 class="team-menmber_name">Dr. Rishi</h3>
+<a aria-label="trainer's profile" class="team-menmber_wrap w-inline-block" href="/about">
+<h3 class="team-menmber_name">Rishi</h3>
 </a>
 <div class="team-menuber_info">
-<p class="team-menuber_designation">Pediatric Trainer</p>
+<p class="team-menuber_designation">Strength Trainer</p>
 <div class="team-menuber_social">
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.0287 2.00098C14.1541 2.00284 14.7244 2.0088 15.2172 2.02347L15.4113 2.02981C15.6355 2.03778 15.8567 2.04778 16.1234 2.06028C17.1875 2.10945 17.9134 2.27778 18.5509 2.52528C19.21 2.77945 19.7667 3.12278 20.3225 3.67862C20.8775 4.23445 21.2209 4.79278 21.4759 5.45028C21.7225 6.08695 21.8909 6.81362 21.9409 7.87778C21.9528 8.14445 21.9624 8.36565 21.9703 8.58989L21.9766 8.78398C21.9912 9.27672 21.9979 9.8471 22 10.9725L22.0008 11.7181C22.0009 11.8092 22.0009 11.9032 22.0009 12.0002L22.0008 12.2823L22.0002 13.028C21.9983 14.1534 21.9924 14.7238 21.9777 15.2165L21.9713 15.4106C21.9634 15.6349 21.9534 15.8561 21.9409 16.1227C21.8917 17.1869 21.7225 17.9127 21.4759 18.5502C21.2217 19.2094 20.8775 19.7661 20.3225 20.3219C19.7667 20.8769 19.2075 21.2202 18.5509 21.4752C17.9134 21.7219 17.1875 21.8902 16.1234 21.9402C15.8567 21.9521 15.6355 21.9618 15.4113 21.9696L15.2172 21.9759C14.7244 21.9906 14.1541 21.9972 13.0287 21.9994L12.283 22.0002C12.1919 22.0002 12.0979 22.0002 12.0009 22.0002H11.7188L10.9731 21.9995C9.84771 21.9977 9.27733 21.9917 8.78458 21.977L8.5905 21.9707C8.36625 21.9627 8.14505 21.9527 7.87839 21.9402C6.81422 21.8911 6.08922 21.7219 5.45089 21.4752C4.79255 21.2211 4.23505 20.8769 3.67922 20.3219C3.12339 19.7661 2.78089 19.2069 2.52589 18.5502C2.27839 17.9127 2.11089 17.1869 2.06089 16.1227C2.04901 15.8561 2.03932 15.6349 2.03147 15.4106L2.02518 15.2165C2.01055 14.7238 2.00388 14.1534 2.00172 13.028L2.00159 10.9725C2.00345 9.8471 2.0094 9.27672 2.02407 8.78398L2.03042 8.58989C2.03839 8.36565 2.04839 8.14445 2.06089 7.87778C2.11005 6.81278 2.27839 6.08778 2.52589 5.45028C2.78005 4.79195 3.12339 4.23445 3.67922 3.67862C4.23505 3.12278 4.79339 2.78028 5.45089 2.52528C6.08839 2.27778 6.81339 2.11028 7.87839 2.06028C8.14505 2.04841 8.36625 2.03872 8.5905 2.03087L8.78458 2.02458C9.27733 2.00994 9.84771 2.00327 10.9731 2.00111L13.0287 2.00098ZM12.0009 7.00028C9.23799 7.00028 7.00089 9.23981 7.00089 12.0002C7.00089 14.7631 9.24042 17.0002 12.0009 17.0002C14.7638 17.0002 17.0009 14.7607 17.0009 12.0002C17.0009 9.23738 14.7613 7.00028 12.0009 7.00028ZM12.0009 9.00028C13.6578 9.00028 15.0009 10.3429 15.0009 12.0002C15.0009 13.6571 13.6582 15.0002 12.0009 15.0002C10.344 15.0002 9.00089 13.6576 9.00089 12.0002C9.00089 10.3433 10.3435 9.00028 12.0009 9.00028ZM17.2509 5.50028C16.5616 5.50028 16.0009 6.06019 16.0009 6.74943C16.0009 7.43868 16.5608 7.99945 17.2509 7.99945C17.9401 7.99945 18.5009 7.43955 18.5009 6.74943C18.5009 6.06019 17.9392 5.49942 17.2509 5.50028Z" fill="currentColor"></path>
 </svg>
 </a>
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M17.6858 3.06152L12.6891 8.77327L8.36887 3.06152H2.11169L9.58803 12.8377L2.50219 20.9365H5.53636L11.0052 14.6876L15.7847 20.9365H21.8869L14.0934 10.6332L20.7182 3.06152H17.6858ZM16.6216 19.1215L5.65277 4.78119H7.45586L18.3018 19.1215H16.6216Z" fill="currentColor"></path>
 </svg>
@@ -432,26 +432,26 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
+<a aria-label="trainer's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
-<h3 class="team-menmber_name">Dr. Emman Collins</h3>
+<a aria-label="trainer's profile" class="team-menmber_wrap w-inline-block" href="/about">
+<h3 class="team-menmber_name">Emman Collins</h3>
 </a>
 <div class="team-menuber_info">
-<p class="team-menuber_designation">Pediatric Trainer</p>
+<p class="team-menuber_designation">Nutritionist</p>
 <div class="team-menuber_social">
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.0287 2.00098C14.1541 2.00284 14.7244 2.0088 15.2172 2.02347L15.4113 2.02981C15.6355 2.03778 15.8567 2.04778 16.1234 2.06028C17.1875 2.10945 17.9134 2.27778 18.5509 2.52528C19.21 2.77945 19.7667 3.12278 20.3225 3.67862C20.8775 4.23445 21.2209 4.79278 21.4759 5.45028C21.7225 6.08695 21.8909 6.81362 21.9409 7.87778C21.9528 8.14445 21.9624 8.36565 21.9703 8.58989L21.9766 8.78398C21.9912 9.27672 21.9979 9.8471 22 10.9725L22.0008 11.7181C22.0009 11.8092 22.0009 11.9032 22.0009 12.0002L22.0008 12.2823L22.0002 13.028C21.9983 14.1534 21.9924 14.7238 21.9777 15.2165L21.9713 15.4106C21.9634 15.6349 21.9534 15.8561 21.9409 16.1227C21.8917 17.1869 21.7225 17.9127 21.4759 18.5502C21.2217 19.2094 20.8775 19.7661 20.3225 20.3219C19.7667 20.8769 19.2075 21.2202 18.5509 21.4752C17.9134 21.7219 17.1875 21.8902 16.1234 21.9402C15.8567 21.9521 15.6355 21.9618 15.4113 21.9696L15.2172 21.9759C14.7244 21.9906 14.1541 21.9972 13.0287 21.9994L12.283 22.0002C12.1919 22.0002 12.0979 22.0002 12.0009 22.0002H11.7188L10.9731 21.9995C9.84771 21.9977 9.27733 21.9917 8.78458 21.977L8.5905 21.9707C8.36625 21.9627 8.14505 21.9527 7.87839 21.9402C6.81422 21.8911 6.08922 21.7219 5.45089 21.4752C4.79255 21.2211 4.23505 20.8769 3.67922 20.3219C3.12339 19.7661 2.78089 19.2069 2.52589 18.5502C2.27839 17.9127 2.11089 17.1869 2.06089 16.1227C2.04901 15.8561 2.03932 15.6349 2.03147 15.4106L2.02518 15.2165C2.01055 14.7238 2.00388 14.1534 2.00172 13.028L2.00159 10.9725C2.00345 9.8471 2.0094 9.27672 2.02407 8.78398L2.03042 8.58989C2.03839 8.36565 2.04839 8.14445 2.06089 7.87778C2.11005 6.81278 2.27839 6.08778 2.52589 5.45028C2.78005 4.79195 3.12339 4.23445 3.67922 3.67862C4.23505 3.12278 4.79339 2.78028 5.45089 2.52528C6.08839 2.27778 6.81339 2.11028 7.87839 2.06028C8.14505 2.04841 8.36625 2.03872 8.5905 2.03087L8.78458 2.02458C9.27733 2.00994 9.84771 2.00327 10.9731 2.00111L13.0287 2.00098ZM12.0009 7.00028C9.23799 7.00028 7.00089 9.23981 7.00089 12.0002C7.00089 14.7631 9.24042 17.0002 12.0009 17.0002C14.7638 17.0002 17.0009 14.7607 17.0009 12.0002C17.0009 9.23738 14.7613 7.00028 12.0009 7.00028ZM12.0009 9.00028C13.6578 9.00028 15.0009 10.3429 15.0009 12.0002C15.0009 13.6571 13.6582 15.0002 12.0009 15.0002C10.344 15.0002 9.00089 13.6576 9.00089 12.0002C9.00089 10.3433 10.3435 9.00028 12.0009 9.00028ZM17.2509 5.50028C16.5616 5.50028 16.0009 6.06019 16.0009 6.74943C16.0009 7.43868 16.5608 7.99945 17.2509 7.99945C17.9401 7.99945 18.5009 7.43955 18.5009 6.74943C18.5009 6.06019 17.9392 5.49942 17.2509 5.50028Z" fill="currentColor"></path>
 </svg>
 </a>
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M17.6858 3.06152L12.6891 8.77327L8.36887 3.06152H2.11169L9.58803 12.8377L2.50219 20.9365H5.53636L11.0052 14.6876L15.7847 20.9365H21.8869L14.0934 10.6332L20.7182 3.06152H17.6858ZM16.6216 19.1215L5.65277 4.78119H7.45586L18.3018 19.1215H16.6216Z" fill="currentColor"></path>
 </svg>
@@ -463,26 +463,26 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
+<a aria-label="trainer's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
-<h3 class="team-menmber_name">Dr. Thompson</h3>
+<a aria-label="trainer's profile" class="team-menmber_wrap w-inline-block" href="/about">
+<h3 class="team-menmber_name">Thompson</h3>
 </a>
 <div class="team-menuber_info">
 <p class="team-menuber_designation">Trainer</p>
 <div class="team-menuber_social">
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.0287 2.00098C14.1541 2.00284 14.7244 2.0088 15.2172 2.02347L15.4113 2.02981C15.6355 2.03778 15.8567 2.04778 16.1234 2.06028C17.1875 2.10945 17.9134 2.27778 18.5509 2.52528C19.21 2.77945 19.7667 3.12278 20.3225 3.67862C20.8775 4.23445 21.2209 4.79278 21.4759 5.45028C21.7225 6.08695 21.8909 6.81362 21.9409 7.87778C21.9528 8.14445 21.9624 8.36565 21.9703 8.58989L21.9766 8.78398C21.9912 9.27672 21.9979 9.8471 22 10.9725L22.0008 11.7181C22.0009 11.8092 22.0009 11.9032 22.0009 12.0002L22.0008 12.2823L22.0002 13.028C21.9983 14.1534 21.9924 14.7238 21.9777 15.2165L21.9713 15.4106C21.9634 15.6349 21.9534 15.8561 21.9409 16.1227C21.8917 17.1869 21.7225 17.9127 21.4759 18.5502C21.2217 19.2094 20.8775 19.7661 20.3225 20.3219C19.7667 20.8769 19.2075 21.2202 18.5509 21.4752C17.9134 21.7219 17.1875 21.8902 16.1234 21.9402C15.8567 21.9521 15.6355 21.9618 15.4113 21.9696L15.2172 21.9759C14.7244 21.9906 14.1541 21.9972 13.0287 21.9994L12.283 22.0002C12.1919 22.0002 12.0979 22.0002 12.0009 22.0002H11.7188L10.9731 21.9995C9.84771 21.9977 9.27733 21.9917 8.78458 21.977L8.5905 21.9707C8.36625 21.9627 8.14505 21.9527 7.87839 21.9402C6.81422 21.8911 6.08922 21.7219 5.45089 21.4752C4.79255 21.2211 4.23505 20.8769 3.67922 20.3219C3.12339 19.7661 2.78089 19.2069 2.52589 18.5502C2.27839 17.9127 2.11089 17.1869 2.06089 16.1227C2.04901 15.8561 2.03932 15.6349 2.03147 15.4106L2.02518 15.2165C2.01055 14.7238 2.00388 14.1534 2.00172 13.028L2.00159 10.9725C2.00345 9.8471 2.0094 9.27672 2.02407 8.78398L2.03042 8.58989C2.03839 8.36565 2.04839 8.14445 2.06089 7.87778C2.11005 6.81278 2.27839 6.08778 2.52589 5.45028C2.78005 4.79195 3.12339 4.23445 3.67922 3.67862C4.23505 3.12278 4.79339 2.78028 5.45089 2.52528C6.08839 2.27778 6.81339 2.11028 7.87839 2.06028C8.14505 2.04841 8.36625 2.03872 8.5905 2.03087L8.78458 2.02458C9.27733 2.00994 9.84771 2.00327 10.9731 2.00111L13.0287 2.00098ZM12.0009 7.00028C9.23799 7.00028 7.00089 9.23981 7.00089 12.0002C7.00089 14.7631 9.24042 17.0002 12.0009 17.0002C14.7638 17.0002 17.0009 14.7607 17.0009 12.0002C17.0009 9.23738 14.7613 7.00028 12.0009 7.00028ZM12.0009 9.00028C13.6578 9.00028 15.0009 10.3429 15.0009 12.0002C15.0009 13.6571 13.6582 15.0002 12.0009 15.0002C10.344 15.0002 9.00089 13.6576 9.00089 12.0002C9.00089 10.3433 10.3435 9.00028 12.0009 9.00028ZM17.2509 5.50028C16.5616 5.50028 16.0009 6.06019 16.0009 6.74943C16.0009 7.43868 16.5608 7.99945 17.2509 7.99945C17.9401 7.99945 18.5009 7.43955 18.5009 6.74943C18.5009 6.06019 17.9392 5.49942 17.2509 5.50028Z" fill="currentColor"></path>
 </svg>
 </a>
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M17.6858 3.06152L12.6891 8.77327L8.36887 3.06152H2.11169L9.58803 12.8377L2.50219 20.9365H5.53636L11.0052 14.6876L15.7847 20.9365H21.8869L14.0934 10.6332L20.7182 3.06152H17.6858ZM16.6216 19.1215L5.65277 4.78119H7.45586L18.3018 19.1215H16.6216Z" fill="currentColor"></path>
 </svg>
@@ -494,26 +494,26 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
+<a aria-label="trainer's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
-<h3 class="team-menmber_name">Dr. Daniel Ahmed</h3>
+<a aria-label="trainer's profile" class="team-menmber_wrap w-inline-block" href="/about">
+<h3 class="team-menmber_name">Daniel Ahmed</h3>
 </a>
 <div class="team-menuber_info">
-<p class="team-menuber_designation">Root Canal Specialist</p>
+<p class="team-menuber_designation">Strength Coach</p>
 <div class="team-menuber_social">
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.0287 2.00098C14.1541 2.00284 14.7244 2.0088 15.2172 2.02347L15.4113 2.02981C15.6355 2.03778 15.8567 2.04778 16.1234 2.06028C17.1875 2.10945 17.9134 2.27778 18.5509 2.52528C19.21 2.77945 19.7667 3.12278 20.3225 3.67862C20.8775 4.23445 21.2209 4.79278 21.4759 5.45028C21.7225 6.08695 21.8909 6.81362 21.9409 7.87778C21.9528 8.14445 21.9624 8.36565 21.9703 8.58989L21.9766 8.78398C21.9912 9.27672 21.9979 9.8471 22 10.9725L22.0008 11.7181C22.0009 11.8092 22.0009 11.9032 22.0009 12.0002L22.0008 12.2823L22.0002 13.028C21.9983 14.1534 21.9924 14.7238 21.9777 15.2165L21.9713 15.4106C21.9634 15.6349 21.9534 15.8561 21.9409 16.1227C21.8917 17.1869 21.7225 17.9127 21.4759 18.5502C21.2217 19.2094 20.8775 19.7661 20.3225 20.3219C19.7667 20.8769 19.2075 21.2202 18.5509 21.4752C17.9134 21.7219 17.1875 21.8902 16.1234 21.9402C15.8567 21.9521 15.6355 21.9618 15.4113 21.9696L15.2172 21.9759C14.7244 21.9906 14.1541 21.9972 13.0287 21.9994L12.283 22.0002C12.1919 22.0002 12.0979 22.0002 12.0009 22.0002H11.7188L10.9731 21.9995C9.84771 21.9977 9.27733 21.9917 8.78458 21.977L8.5905 21.9707C8.36625 21.9627 8.14505 21.9527 7.87839 21.9402C6.81422 21.8911 6.08922 21.7219 5.45089 21.4752C4.79255 21.2211 4.23505 20.8769 3.67922 20.3219C3.12339 19.7661 2.78089 19.2069 2.52589 18.5502C2.27839 17.9127 2.11089 17.1869 2.06089 16.1227C2.04901 15.8561 2.03932 15.6349 2.03147 15.4106L2.02518 15.2165C2.01055 14.7238 2.00388 14.1534 2.00172 13.028L2.00159 10.9725C2.00345 9.8471 2.0094 9.27672 2.02407 8.78398L2.03042 8.58989C2.03839 8.36565 2.04839 8.14445 2.06089 7.87778C2.11005 6.81278 2.27839 6.08778 2.52589 5.45028C2.78005 4.79195 3.12339 4.23445 3.67922 3.67862C4.23505 3.12278 4.79339 2.78028 5.45089 2.52528C6.08839 2.27778 6.81339 2.11028 7.87839 2.06028C8.14505 2.04841 8.36625 2.03872 8.5905 2.03087L8.78458 2.02458C9.27733 2.00994 9.84771 2.00327 10.9731 2.00111L13.0287 2.00098ZM12.0009 7.00028C9.23799 7.00028 7.00089 9.23981 7.00089 12.0002C7.00089 14.7631 9.24042 17.0002 12.0009 17.0002C14.7638 17.0002 17.0009 14.7607 17.0009 12.0002C17.0009 9.23738 14.7613 7.00028 12.0009 7.00028ZM12.0009 9.00028C13.6578 9.00028 15.0009 10.3429 15.0009 12.0002C15.0009 13.6571 13.6582 15.0002 12.0009 15.0002C10.344 15.0002 9.00089 13.6576 9.00089 12.0002C9.00089 10.3433 10.3435 9.00028 12.0009 9.00028ZM17.2509 5.50028C16.5616 5.50028 16.0009 6.06019 16.0009 6.74943C16.0009 7.43868 16.5608 7.99945 17.2509 7.99945C17.9401 7.99945 18.5009 7.43955 18.5009 6.74943C18.5009 6.06019 17.9392 5.49942 17.2509 5.50028Z" fill="currentColor"></path>
 </svg>
 </a>
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M17.6858 3.06152L12.6891 8.77327L8.36887 3.06152H2.11169L9.58803 12.8377L2.50219 20.9365H5.53636L11.0052 14.6876L15.7847 20.9365H21.8869L14.0934 10.6332L20.7182 3.06152H17.6858ZM16.6216 19.1215L5.65277 4.78119H7.45586L18.3018 19.1215H16.6216Z" fill="currentColor"></path>
 </svg>
@@ -525,26 +525,26 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
+<a aria-label="trainer's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
-<h3 class="team-menmber_name">Dr. Collins</h3>
+<a aria-label="trainer's profile" class="team-menmber_wrap w-inline-block" href="/about">
+<h3 class="team-menmber_name">Collins</h3>
 </a>
 <div class="team-menuber_info">
-<p class="team-menuber_designation">Pediatric Trainer</p>
+<p class="team-menuber_designation">Cardio Instructor</p>
 <div class="team-menuber_social">
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://instagram.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M13.0287 2.00098C14.1541 2.00284 14.7244 2.0088 15.2172 2.02347L15.4113 2.02981C15.6355 2.03778 15.8567 2.04778 16.1234 2.06028C17.1875 2.10945 17.9134 2.27778 18.5509 2.52528C19.21 2.77945 19.7667 3.12278 20.3225 3.67862C20.8775 4.23445 21.2209 4.79278 21.4759 5.45028C21.7225 6.08695 21.8909 6.81362 21.9409 7.87778C21.9528 8.14445 21.9624 8.36565 21.9703 8.58989L21.9766 8.78398C21.9912 9.27672 21.9979 9.8471 22 10.9725L22.0008 11.7181C22.0009 11.8092 22.0009 11.9032 22.0009 12.0002L22.0008 12.2823L22.0002 13.028C21.9983 14.1534 21.9924 14.7238 21.9777 15.2165L21.9713 15.4106C21.9634 15.6349 21.9534 15.8561 21.9409 16.1227C21.8917 17.1869 21.7225 17.9127 21.4759 18.5502C21.2217 19.2094 20.8775 19.7661 20.3225 20.3219C19.7667 20.8769 19.2075 21.2202 18.5509 21.4752C17.9134 21.7219 17.1875 21.8902 16.1234 21.9402C15.8567 21.9521 15.6355 21.9618 15.4113 21.9696L15.2172 21.9759C14.7244 21.9906 14.1541 21.9972 13.0287 21.9994L12.283 22.0002C12.1919 22.0002 12.0979 22.0002 12.0009 22.0002H11.7188L10.9731 21.9995C9.84771 21.9977 9.27733 21.9917 8.78458 21.977L8.5905 21.9707C8.36625 21.9627 8.14505 21.9527 7.87839 21.9402C6.81422 21.8911 6.08922 21.7219 5.45089 21.4752C4.79255 21.2211 4.23505 20.8769 3.67922 20.3219C3.12339 19.7661 2.78089 19.2069 2.52589 18.5502C2.27839 17.9127 2.11089 17.1869 2.06089 16.1227C2.04901 15.8561 2.03932 15.6349 2.03147 15.4106L2.02518 15.2165C2.01055 14.7238 2.00388 14.1534 2.00172 13.028L2.00159 10.9725C2.00345 9.8471 2.0094 9.27672 2.02407 8.78398L2.03042 8.58989C2.03839 8.36565 2.04839 8.14445 2.06089 7.87778C2.11005 6.81278 2.27839 6.08778 2.52589 5.45028C2.78005 4.79195 3.12339 4.23445 3.67922 3.67862C4.23505 3.12278 4.79339 2.78028 5.45089 2.52528C6.08839 2.27778 6.81339 2.11028 7.87839 2.06028C8.14505 2.04841 8.36625 2.03872 8.5905 2.03087L8.78458 2.02458C9.27733 2.00994 9.84771 2.00327 10.9731 2.00111L13.0287 2.00098ZM12.0009 7.00028C9.23799 7.00028 7.00089 9.23981 7.00089 12.0002C7.00089 14.7631 9.24042 17.0002 12.0009 17.0002C14.7638 17.0002 17.0009 14.7607 17.0009 12.0002C17.0009 9.23738 14.7613 7.00028 12.0009 7.00028ZM12.0009 9.00028C13.6578 9.00028 15.0009 10.3429 15.0009 12.0002C15.0009 13.6571 13.6582 15.0002 12.0009 15.0002C10.344 15.0002 9.00089 13.6576 9.00089 12.0002C9.00089 10.3433 10.3435 9.00028 12.0009 9.00028ZM17.2509 5.50028C16.5616 5.50028 16.0009 6.06019 16.0009 6.74943C16.0009 7.43868 16.5608 7.99945 17.2509 7.99945C17.9401 7.99945 18.5009 7.43955 18.5009 6.74943C18.5009 6.06019 17.9392 5.49942 17.2509 5.50028Z" fill="currentColor"></path>
 </svg>
 </a>
-<a aria-label="doctor's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
+<a aria-label="trainer's social" class="team-menuber_social-item w-inline-block" href="http://twitter.com/">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 24 24" width="100%" xmlns="http://www.w3.org/2000/svg">
 <path d="M17.6858 3.06152L12.6891 8.77327L8.36887 3.06152H2.11169L9.58803 12.8377L2.50219 20.9365H5.53636L11.0052 14.6876L15.7847 20.9365H21.8869L14.0934 10.6332L20.7182 3.06152H17.6858ZM16.6216 19.1215L5.65277 4.78119H7.45586L18.3018 19.1215H16.6216Z" fill="currentColor"></path>
 </svg>
@@ -601,24 +601,24 @@ export default function About() {
 <img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1548690312-e3b507d8c110?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="marquee-item_inner">
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>
@@ -637,24 +637,24 @@ export default function About() {
 <img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1548690312-e3b507d8c110?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="marquee-item_inner">
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>
@@ -915,7 +915,7 @@ export default function About() {
 </div>
 <div class="awards-tabs_pane-image">
 <div class="awards-tabs_image-wrap">
-<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1548690312-e3b507d8c110?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_image-content">
 <div class="awards-tabs_image-title_wrap">
@@ -977,7 +977,7 @@ export default function About() {
 </div>
 <div class="awards-tabs_pane-image">
 <div class="awards-tabs_image-wrap">
-<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_image-content">
 <div class="awards-tabs_image-title_wrap">
@@ -1039,7 +1039,7 @@ export default function About() {
 </div>
 <div class="awards-tabs_pane-image">
 <div class="awards-tabs_image-wrap">
-<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_image-content">
 <div class="awards-tabs_image-title_wrap">
@@ -1101,7 +1101,7 @@ export default function About() {
 </div>
 <div class="awards-tabs_pane-image">
 <div class="awards-tabs_image-wrap">
-<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_image-content">
 <div class="awards-tabs_image-title_wrap">
@@ -1158,7 +1158,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1168,7 +1168,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1224,7 +1224,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1548690312-e3b507d8c110?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1234,7 +1234,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1567013127542-490d757e51fc?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1244,7 +1244,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>
@@ -1256,7 +1256,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1266,7 +1266,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1276,7 +1276,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&amp;w=600&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>

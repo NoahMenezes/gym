@@ -77,7 +77,7 @@ body {
 }
 
 /* VIBE CODED GYM THEME - Dark Strong Background & Glowing Green */
-body, .page-wrapper, .section, .navbar_wrap, .footer, .navbar-dropdown_list, .navbar_container {
+body, .page-wrapper, .section, .section_faq, .section_service, .section_story, .section_team, .navbar_wrap, .footer, .navbar-dropdown_list, .navbar_container, .service_item, .faq_list, .faq-cta_info {
   background-color: #0f0f0f !important;
   color: #ededed !important;
 }
@@ -139,5 +139,20 @@ a, .link, .navbar_link {
 .faq-cta_icon {
   stroke: #00ff66 !important;
 }
+
+/* Service Thumbnail Images Override */
+.service-item-1 {
+  background-image: url("/assets/img/gen_service-thumbnail-image.webp") !important;
+}
+.service-item-2 {
+  background-image: url("/assets/img/gen_service-thumbnail-image-2.webp") !important;
+}
+.service-item-3 {
+  background-image: url("/assets/img/gen_service-thumbnail-image-3.webp") !important;
+}
+.service-item-4 {
+  background-image: url("/assets/img/gen_service-thumbnail-image-4.webp") !important;
+}
+
 
 
