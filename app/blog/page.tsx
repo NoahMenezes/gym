@@ -4,21 +4,21 @@ export default function Blog() {
 <div class="page-wrapper">
 <div class="navbar_wrap w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" fs-scrolldisable-element="smart-nav" role="banner">
 <div class="navbar_container">
-<a class="navbar_logo w-nav-brand" href="index.html">
+<a class="navbar_logo w-nav-brand" href="/">
 <img alt="Lumora logo" class="logo_image" loading="eager" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="navbar-content_wrap">
 <nav class="navbar_menu w-nav-menu" role="navigation">
-<a class="navbar_link w-inline-block" href="index.html">
+<a class="navbar_link w-inline-block" href="/">
 <div>Home</div>
 </a>
-<a class="navbar_link w-inline-block" href="about.html">
+<a class="navbar_link w-inline-block" href="/about">
 <div>About Us</div>
 </a>
-<a class="navbar_link w-inline-block" href="service.html">
+<a class="navbar_link w-inline-block" href="/service">
 <div>Services</div>
 </a>
-<a aria-current="page" class="navbar_link w-inline-block w--current" href="blog.html">
+<a aria-current="page" class="navbar_link w-inline-block w--current" href="/blog">
 <div>Blog</div>
 </a>
 <div class="navbar_dropdown w-dropdown" data-delay="200" data-hover="false">
@@ -33,19 +33,19 @@ export default function Blog() {
 <nav class="navbar-dropdown_list w-dropdown-list">
 <div class="navbar-dropdown_wrapper">
 <div class="navbar-dropdown_column">
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="index.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/">
 <div>Home</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="about.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
 <div>About </div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="service.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/service">
 <div>Services</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="service.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/service">
 <div>Services Details</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="about.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
 <div>Doctor Details</div>
 </a>
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://calendly.com/shreyasrajsony11">
@@ -53,30 +53,30 @@ export default function Blog() {
 </a>
 </div>
 <div class="navbar-dropdown_column">
-<a aria-current="page" class="navbar-dropdown_link w-inline-block w--current" data-animation="text-flip" href="blog.html">
+<a aria-current="page" class="navbar-dropdown_link w-inline-block w--current" data-animation="text-flip" href="/blog">
 <div>Blogs</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="blog.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/blog">
 <div>Blog Details</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="privacy.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/privacy">
 <div>Privacy Policy</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="cookies.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/cookies">
 <div>Cookies</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="404.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/404">
 <div>404</div>
 </a>
 </div>
 <div class="navbar-dropdown_column">
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="terms.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/terms">
 <div>Terms &amp;Conditions</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="index.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/">
 <div>Styleguide</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="index.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/">
 <div>Instruction</div>
 </a>
 </div>
@@ -161,10 +161,10 @@ export default function Blog() {
 <div class="w-dyn-items" role="list">
 <div class="w-dyn-item" role="listitem">
 <div class="feature_blog" data-w-id="f8ffd085-611f-daf7-4a70-712769d2ff5f" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
-<a aria-label="feature-blog-link" class="feature-blog_image-wrap w-inline-block" data-w-id="e648eab7-213c-2ade-0555-73a5a8607885" href="blog.html">
+<a aria-label="feature-blog-link" class="feature-blog_image-wrap w-inline-block" data-w-id="e648eab7-213c-2ade-0555-73a5a8607885" href="/blog">
 <div class="image-animation-trigger">
 <div class="image-animation-scale" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)">
-<img alt="" class="feature-blog_image" data-w-id="2677f78a-9aa8-f7a1-dcc6-f54a9eb50a6a" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_blog-image-4.jpg 500w, assets/img/gen_blog-image-4.jpg 800w, assets/img/gen_blog-image-4.jpg 1080w, assets/img/gen_blog-image-4.jpg 1600w, assets/img/gen_blog-image-4.jpg 1620w" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"/>
+<img alt="" class="feature-blog_image" data-w-id="2677f78a-9aa8-f7a1-dcc6-f54a9eb50a6a" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"/>
 </div>
 </div>
 </a>
@@ -183,14 +183,14 @@ export default function Blog() {
 </div>
 </div>
 <div class="margin-bottom margin-24px">
-<a aria-label="feature-blog-link" class="feature-blog_title-wrap w-inline-block" href="blog.html">
+<a aria-label="feature-blog-link" class="feature-blog_title-wrap w-inline-block" href="/blog">
 <h2 class="feature-blog_title">The ultimate guide to brushing: are you doing it right?</h2>
 </a>
 </div>
 <p class="feature-blog_text">Discover how cosmetic gym treatments can transform your strength, improve appearance, and boost your confidence with personalized solutions designed for natural, lasting results.</p>
 </div>
 <div class="feature-blog_button">
-<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="blog.html">
+<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="/blog">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Read More</div>
@@ -268,7 +268,7 @@ export default function Blog() {
 <div class="w-dyn-list">
 <div class="blog_list w-dyn-items" role="list">
 <div class="w-dyn-item" role="listitem">
-<a class="blog_item w-inline-block" href="blog.html">
+<a class="blog_item w-inline-block" href="/blog">
 <div class="blog-content_wrap">
 <div class="blog-item_content">
 <div class="blog-item_content-inner">
@@ -285,12 +285,12 @@ export default function Blog() {
 </div>
 </div>
 <div class="blog-item_image-wrap">
-<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_blog-image-6.jpg 500w, assets/img/gen_blog-image-6.jpg 800w, assets/img/gen_blog-image-6.jpg 1080w, assets/img/gen_blog-image-6.jpg 1600w, assets/img/gen_blog-image-6.jpg 1620w"/>
+<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </a>
 </div>
 <div class="w-dyn-item" role="listitem">
-<a class="blog_item w-inline-block" href="blog.html">
+<a class="blog_item w-inline-block" href="/blog">
 <div class="blog-content_wrap">
 <div class="blog-item_content">
 <div class="blog-item_content-inner">
@@ -307,12 +307,12 @@ export default function Blog() {
 </div>
 </div>
 <div class="blog-item_image-wrap">
-<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_blog-image-5.jpg 500w, assets/img/gen_blog-image-5.jpg 800w, assets/img/gen_blog-image-5.jpg 1080w, assets/img/gen_blog-image-5.jpg 1600w, assets/img/gen_blog-image-5.jpg 1620w"/>
+<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </a>
 </div>
 <div class="w-dyn-item" role="listitem">
-<a class="blog_item w-inline-block" href="blog.html">
+<a class="blog_item w-inline-block" href="/blog">
 <div class="blog-content_wrap">
 <div class="blog-item_content">
 <div class="blog-item_content-inner">
@@ -329,12 +329,12 @@ export default function Blog() {
 </div>
 </div>
 <div class="blog-item_image-wrap">
-<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_blog-image-4.jpg 500w, assets/img/gen_blog-image-4.jpg 800w, assets/img/gen_blog-image-4.jpg 1080w, assets/img/gen_blog-image-4.jpg 1600w, assets/img/gen_blog-image-4.jpg 1620w"/>
+<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </a>
 </div>
 <div class="w-dyn-item" role="listitem">
-<a class="blog_item w-inline-block" href="blog.html">
+<a class="blog_item w-inline-block" href="/blog">
 <div class="blog-content_wrap">
 <div class="blog-item_content">
 <div class="blog-item_content-inner">
@@ -351,12 +351,12 @@ export default function Blog() {
 </div>
 </div>
 <div class="blog-item_image-wrap">
-<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_blog-image-3.jpg 500w, assets/img/gen_blog-image-3.jpg 800w, assets/img/gen_blog-image-3.jpg 1080w, assets/img/gen_blog-image-3.jpg 1600w, assets/img/gen_blog-image-3.jpg 1620w"/>
+<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </a>
 </div>
 <div class="w-dyn-item" role="listitem">
-<a class="blog_item w-inline-block" href="blog.html">
+<a class="blog_item w-inline-block" href="/blog">
 <div class="blog-content_wrap">
 <div class="blog-item_content">
 <div class="blog-item_content-inner">
@@ -373,12 +373,12 @@ export default function Blog() {
 </div>
 </div>
 <div class="blog-item_image-wrap">
-<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_blog-image-2.jpg 500w, assets/img/gen_blog-image-2.jpg 800w, assets/img/gen_blog-image-2.jpg 1080w, assets/img/gen_blog-image-2.jpg 1600w, assets/img/gen_blog-image-2.jpg 1620w"/>
+<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </a>
 </div>
 <div class="w-dyn-item" role="listitem">
-<a class="blog_item w-inline-block" href="blog.html">
+<a class="blog_item w-inline-block" href="/blog">
 <div class="blog-content_wrap">
 <div class="blog-item_content">
 <div class="blog-item_content-inner">
@@ -395,7 +395,7 @@ export default function Blog() {
 </div>
 </div>
 <div class="blog-item_image-wrap">
-<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_blog-image-1.jpg 500w, assets/img/gen_blog-image-1.jpg 800w, assets/img/gen_blog-image-1.jpg 1080w, assets/img/gen_blog-image-1.jpg 1600w, assets/img/gen_blog-image-1.jpg 1620w"/>
+<img alt="" class="blog-item_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </a>
 </div>
@@ -607,7 +607,7 @@ export default function Blog() {
 <div class="section-padding">
 <div class="container">
 <div class="footer_header" data-w-id="a1b41f4f-e78b-52e6-2492-2ff9a80f251e">
-<a class="footer_brand w-inline-block" href="index.html" id="w-node-_69a072d1-69e6-8783-2548-858b3e84bf4f-4af74ce9">
+<a class="footer_brand w-inline-block" href="/" id="w-node-_69a072d1-69e6-8783-2548-858b3e84bf4f-4af74ce9">
 <img alt="Lumora logo" class="brand_logo" loading="lazy" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="footer-contact_wrap">
@@ -650,16 +650,16 @@ export default function Blog() {
 <div class="footer-links-column">
 <div class="footer-menu_title">Navigation</div>
 <div class="footer-menu_link-wrap">
-<a class="footer-menu_link w-inline-block" href="index.html">
+<a class="footer-menu_link w-inline-block" href="/">
 <div>Home</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="about.html">
+<a class="footer-menu_link w-inline-block" href="/about">
 <div>About</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="service.html">
+<a class="footer-menu_link w-inline-block" href="/service">
 <div>Services</div>
 </a>
-<a aria-current="page" class="footer-menu_link w-inline-block w--current" href="blog.html">
+<a aria-current="page" class="footer-menu_link w-inline-block w--current" href="/blog">
 <div>Blogs</div>
 </a>
 </div>
@@ -667,16 +667,16 @@ export default function Blog() {
 <div class="footer-links-column" id="w-node-_8ecb3a12-ee6e-7ca0-b061-e7854131557d-4af74ce9">
 <div class="footer-menu_title">Legal</div>
 <div class="footer-menu_link-wrap">
-<a class="footer-menu_link w-inline-block" href="terms.html">
+<a class="footer-menu_link w-inline-block" href="/terms">
 <div>Terms &amp;Conditions</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="cookies.html">
+<a class="footer-menu_link w-inline-block" href="/cookies">
 <div>Cookies</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="licenses.html">
+<a class="footer-menu_link w-inline-block" href="/licenses">
 <div>Licenses</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="404.html">
+<a class="footer-menu_link w-inline-block" href="/404">
 <div>404</div>
 </a>
 </div>
@@ -731,7 +731,7 @@ export default function Blog() {
                                         © 2026 Iron Fitness
                                     </div>
 <div class="footer-bottom_right-divider"></div>
-<a class="footer-menu_link w-inline-block" href="privacy.html">
+<a class="footer-menu_link w-inline-block" href="/privacy">
 <div>Privacy Policy</div>
 </a>
 </div>

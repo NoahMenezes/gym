@@ -4,21 +4,21 @@ export default function Service() {
 <div class="page-wrapper">
 <div class="navbar_wrap w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" fs-scrolldisable-element="smart-nav" role="banner">
 <div class="navbar_container">
-<a class="navbar_logo w-nav-brand" href="index.html">
+<a class="navbar_logo w-nav-brand" href="/">
 <img alt="Lumora logo" class="logo_image" loading="eager" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="navbar-content_wrap">
 <nav class="navbar_menu w-nav-menu" role="navigation">
-<a class="navbar_link w-inline-block" href="index.html">
+<a class="navbar_link w-inline-block" href="/">
 <div>Home</div>
 </a>
-<a class="navbar_link w-inline-block" href="about.html">
+<a class="navbar_link w-inline-block" href="/about">
 <div>About Us</div>
 </a>
-<a aria-current="page" class="navbar_link w-inline-block w--current" href="service.html">
+<a aria-current="page" class="navbar_link w-inline-block w--current" href="/service">
 <div>Services</div>
 </a>
-<a class="navbar_link w-inline-block" href="blog.html">
+<a class="navbar_link w-inline-block" href="/blog">
 <div>Blog</div>
 </a>
 <div class="navbar_dropdown w-dropdown" data-delay="200" data-hover="false">
@@ -33,19 +33,19 @@ export default function Service() {
 <nav class="navbar-dropdown_list w-dropdown-list">
 <div class="navbar-dropdown_wrapper">
 <div class="navbar-dropdown_column">
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="index.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/">
 <div>Home</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="about.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
 <div>About </div>
 </a>
-<a aria-current="page" class="navbar-dropdown_link w-inline-block w--current" data-animation="text-flip" href="service.html">
+<a aria-current="page" class="navbar-dropdown_link w-inline-block w--current" data-animation="text-flip" href="/service">
 <div>Services</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="service.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/service">
 <div>Services Details</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="about.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
 <div>Doctor Details</div>
 </a>
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://calendly.com/shreyasrajsony11">
@@ -53,30 +53,30 @@ export default function Service() {
 </a>
 </div>
 <div class="navbar-dropdown_column">
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="blog.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/blog">
 <div>Blogs</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="blog.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/blog">
 <div>Blog Details</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="privacy.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/privacy">
 <div>Privacy Policy</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="cookies.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/cookies">
 <div>Cookies</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="404.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/404">
 <div>404</div>
 </a>
 </div>
 <div class="navbar-dropdown_column">
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="terms.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/terms">
 <div>Terms &amp;Conditions</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="index.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/">
 <div>Styleguide</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="index.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/">
 <div>Instruction</div>
 </a>
 </div>
@@ -230,7 +230,7 @@ export default function Service() {
 <div class="service-item_small-text" id="w-node-a92f16b9-75d8-78c4-a39a-766877b28187-965ec33e">What includes</div>
 <div class="service-item_details">
 <div class="service-thumbnail_wrap">
-<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_service-thumbnail-image.jpg 500w, assets/img/gen_service-thumbnail-image.jpg 800w, assets/img/gen_service-thumbnail-image.jpg 1080w, assets/img/gen_service-thumbnail-image.jpg 1184w"/>
+<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="service-tag_wrap">
 <div class="service_tag">
@@ -267,7 +267,7 @@ export default function Service() {
 </div>
 </div>
 <div class="button-container">
-<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="service.html">
+<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="/service">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">View Details</div>
@@ -314,7 +314,7 @@ export default function Service() {
 <div class="service-item_small-text" id="w-node-a92f16b9-75d8-78c4-a39a-766877b28187-965ec33e">What includes</div>
 <div class="service-item_details">
 <div class="service-thumbnail_wrap">
-<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_service-thumbnail-image-2.jpg 500w, assets/img/gen_service-thumbnail-image-2.jpg 800w, assets/img/gen_service-thumbnail-image-2.jpg 1080w, assets/img/gen_service-thumbnail-image-2.jpg 1336w"/>
+<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="service-tag_wrap">
 <div class="service_tag">
@@ -351,7 +351,7 @@ export default function Service() {
 </div>
 </div>
 <div class="button-container">
-<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="service.html">
+<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="/service">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">View Details</div>
@@ -398,7 +398,7 @@ export default function Service() {
 <div class="service-item_small-text" id="w-node-a92f16b9-75d8-78c4-a39a-766877b28187-965ec33e">What includes</div>
 <div class="service-item_details">
 <div class="service-thumbnail_wrap">
-<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_service-thumbnail-image-3.jpg 500w, assets/img/gen_service-thumbnail-image-3.jpg 800w, assets/img/gen_service-thumbnail-image-3.jpg 1080w, assets/img/gen_service-thumbnail-image-3.jpg 1336w"/>
+<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="service-tag_wrap">
 <div class="service_tag">
@@ -435,7 +435,7 @@ export default function Service() {
 </div>
 </div>
 <div class="button-container">
-<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="service.html">
+<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="/service">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">View Details</div>
@@ -482,7 +482,7 @@ export default function Service() {
 <div class="service-item_small-text" id="w-node-a92f16b9-75d8-78c4-a39a-766877b28187-965ec33e">What includes</div>
 <div class="service-item_details">
 <div class="service-thumbnail_wrap">
-<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_service-thumbnail-image-4.jpg 500w, assets/img/gen_service-thumbnail-image-4.jpg 800w, assets/img/gen_service-thumbnail-image-4.jpg 1080w, assets/img/gen_service-thumbnail-image-4.jpg 1336w"/>
+<img alt="" class="service_thumbnail" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="service-tag_wrap">
 <div class="service_tag">
@@ -519,7 +519,7 @@ export default function Service() {
 </div>
 </div>
 <div class="button-container">
-<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="service.html">
+<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="/service">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">View Details</div>
@@ -752,7 +752,7 @@ export default function Service() {
 <div class="section-padding">
 <div class="container">
 <div class="footer_header" data-w-id="a1b41f4f-e78b-52e6-2492-2ff9a80f251e">
-<a class="footer_brand w-inline-block" href="index.html" id="w-node-_69a072d1-69e6-8783-2548-858b3e84bf4f-4af74ce9">
+<a class="footer_brand w-inline-block" href="/" id="w-node-_69a072d1-69e6-8783-2548-858b3e84bf4f-4af74ce9">
 <img alt="Lumora logo" class="brand_logo" loading="lazy" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="footer-contact_wrap">
@@ -795,16 +795,16 @@ export default function Service() {
 <div class="footer-links-column">
 <div class="footer-menu_title">Navigation</div>
 <div class="footer-menu_link-wrap">
-<a class="footer-menu_link w-inline-block" href="index.html">
+<a class="footer-menu_link w-inline-block" href="/">
 <div>Home</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="about.html">
+<a class="footer-menu_link w-inline-block" href="/about">
 <div>About</div>
 </a>
-<a aria-current="page" class="footer-menu_link w-inline-block w--current" href="service.html">
+<a aria-current="page" class="footer-menu_link w-inline-block w--current" href="/service">
 <div>Services</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="blog.html">
+<a class="footer-menu_link w-inline-block" href="/blog">
 <div>Blogs</div>
 </a>
 </div>
@@ -812,16 +812,16 @@ export default function Service() {
 <div class="footer-links-column" id="w-node-_8ecb3a12-ee6e-7ca0-b061-e7854131557d-4af74ce9">
 <div class="footer-menu_title">Legal</div>
 <div class="footer-menu_link-wrap">
-<a class="footer-menu_link w-inline-block" href="terms.html">
+<a class="footer-menu_link w-inline-block" href="/terms">
 <div>Terms &amp;Conditions</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="cookies.html">
+<a class="footer-menu_link w-inline-block" href="/cookies">
 <div>Cookies</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="licenses.html">
+<a class="footer-menu_link w-inline-block" href="/licenses">
 <div>Licenses</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="404.html">
+<a class="footer-menu_link w-inline-block" href="/404">
 <div>404</div>
 </a>
 </div>
@@ -876,7 +876,7 @@ export default function Service() {
                                         © 2026 Iron Fitness
                                     </div>
 <div class="footer-bottom_right-divider"></div>
-<a class="footer-menu_link w-inline-block" href="privacy.html">
+<a class="footer-menu_link w-inline-block" href="/privacy">
 <div>Privacy Policy</div>
 </a>
 </div>

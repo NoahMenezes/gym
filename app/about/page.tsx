@@ -4,21 +4,21 @@ export default function About() {
 <div class="page-wrapper">
 <div class="navbar_wrap w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" fs-scrolldisable-element="smart-nav" role="banner">
 <div class="navbar_container">
-<a class="navbar_logo w-nav-brand" href="index.html">
+<a class="navbar_logo w-nav-brand" href="/">
 <img alt="Lumora logo" class="logo_image" loading="eager" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="navbar-content_wrap">
 <nav class="navbar_menu w-nav-menu" role="navigation">
-<a class="navbar_link w-inline-block" href="index.html">
+<a class="navbar_link w-inline-block" href="/">
 <div>Home</div>
 </a>
-<a aria-current="page" class="navbar_link w-inline-block w--current" href="about.html">
+<a aria-current="page" class="navbar_link w-inline-block w--current" href="/about">
 <div>About Us</div>
 </a>
-<a class="navbar_link w-inline-block" href="service.html">
+<a class="navbar_link w-inline-block" href="/service">
 <div>Services</div>
 </a>
-<a class="navbar_link w-inline-block" href="blog.html">
+<a class="navbar_link w-inline-block" href="/blog">
 <div>Blog</div>
 </a>
 <div class="navbar_dropdown w-dropdown" data-delay="200" data-hover="false">
@@ -33,19 +33,19 @@ export default function About() {
 <nav class="navbar-dropdown_list w-dropdown-list">
 <div class="navbar-dropdown_wrapper">
 <div class="navbar-dropdown_column">
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="index.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/">
 <div>Home</div>
 </a>
-<a aria-current="page" class="navbar-dropdown_link w-inline-block w--current" data-animation="text-flip" href="about.html">
+<a aria-current="page" class="navbar-dropdown_link w-inline-block w--current" data-animation="text-flip" href="/about">
 <div>About </div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="service.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/service">
 <div>Services</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="service.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/service">
 <div>Services Details</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="about.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
 <div>Doctor Details</div>
 </a>
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://calendly.com/shreyasrajsony11">
@@ -53,30 +53,30 @@ export default function About() {
 </a>
 </div>
 <div class="navbar-dropdown_column">
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="blog.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/blog">
 <div>Blogs</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="blog.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/blog">
 <div>Blog Details</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="privacy.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/privacy">
 <div>Privacy Policy</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="cookies.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/cookies">
 <div>Cookies</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="404.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/404">
 <div>404</div>
 </a>
 </div>
 <div class="navbar-dropdown_column">
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="terms.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/terms">
 <div>Terms &amp;Conditions</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="index.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/">
 <div>Styleguide</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="index.html">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/">
 <div>Instruction</div>
 </a>
 </div>
@@ -200,7 +200,7 @@ export default function About() {
 </div>
 </div>
 <div class="about-hero_image-wrap" data-w-id="13f35a51-6f31-0fc5-cc8d-c0464d8ccc39" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
-<img alt="About image" class="about-hero_image" data-w-id="0eb5616a-32aa-f331-47e8-42e10447f18d" loading="lazy" sizes="(max-width: 2320px) 100vw, 2320px" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_about-hero-image.jpg 500w, assets/img/gen_about-hero-image.jpg 800w, assets/img/gen_about-hero-image.jpg 1080w, assets/img/gen_about-hero-image.jpg 1600w, assets/img/gen_about-hero-image.jpg 2000w, assets/img/gen_about-hero-image.jpg 2320w" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"/>
+<img alt="About image" class="about-hero_image" data-w-id="0eb5616a-32aa-f331-47e8-42e10447f18d" loading="lazy" sizes="(max-width: 2320px) 100vw, 2320px" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"/>
 </div>
 </div>
 </div>
@@ -235,7 +235,7 @@ export default function About() {
 </div>
 </div>
 <div class="button-container" data-w-id="bb2642b1-bfa3-9fb0-2c8b-1d550464ad27" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
-<a class="button_primary w-inline-block" data-wf--button-primary--variant="base" href="blog.html">
+<a class="button_primary w-inline-block" data-wf--button-primary--variant="base" href="/blog">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Learn More</div>
@@ -265,7 +265,7 @@ export default function About() {
 <img alt="Story image" class="story_images" loading="lazy" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="story-images_wrap is-big" id="w-node-_1f52818f-c54a-441c-f0ab-584a4015e415-965ec33d">
-<img alt="Story image" class="story_images" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_story-image-3.jpg 500w, assets/img/gen_story-image-3.jpg 640w"/>
+<img alt="Story image" class="story_images" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="story-images_wrap is-odd" id="w-node-d4a9463e-8c87-eed9-77c9-1268cc89c355-965ec33d">
 <img alt="Story image" class="story_images" loading="lazy" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
@@ -310,7 +310,7 @@ export default function About() {
 </div>
 </div>
 <div class="success-card_image-wrap">
-<img alt="Success image" class="success-card_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e041cad257c10b1176cd81_success-item-image-1-p-500.webp 500w, assets/img/69e041cad257c10b1176cd81_success-item-image-1.webp 747w"/>
+<img alt="Success image" class="success-card_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="success_card is-color-01">
@@ -327,7 +327,7 @@ export default function About() {
 </div>
 </div>
 <div class="success-card_image-wrap">
-<img alt="Success image" class="success-card_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e041cb0a159b45d163a9ea_success-item-image-2-p-500.webp 500w, assets/img/69e041cb0a159b45d163a9ea_success-item-image-2.webp 747w"/>
+<img alt="Success image" class="success-card_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="success_card is-color-02">
@@ -370,7 +370,7 @@ export default function About() {
 <div class="team_list w-dyn-items" role="list">
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
 <img alt="" class="team_image" loading="lazy" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
@@ -378,7 +378,7 @@ export default function About() {
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
 <h3 class="team-menmber_name">Dr. Olivia Thompson</h3>
 </a>
 <div class="team-menuber_info">
@@ -401,15 +401,15 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_team-image-5.jpg 500w, assets/img/gen_team-image-5.jpg 742w"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
 <h3 class="team-menmber_name">Dr. Rishi</h3>
 </a>
 <div class="team-menuber_info">
@@ -432,15 +432,15 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_team-image-4.jpg 500w, assets/img/gen_team-image-4.jpg 748w"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
 <h3 class="team-menmber_name">Dr. Emman Collins</h3>
 </a>
 <div class="team-menuber_info">
@@ -463,15 +463,15 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_team-image-3.jpg 500w, assets/img/gen_team-image-3.jpg 746w"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
 <h3 class="team-menmber_name">Dr. Thompson</h3>
 </a>
 <div class="team-menuber_info">
@@ -494,15 +494,15 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_team-image-2.jpg 500w, assets/img/gen_team-image-2.jpg 746w"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
 <h3 class="team-menmber_name">Dr. Daniel Ahmed</h3>
 </a>
 <div class="team-menuber_info">
@@ -525,15 +525,15 @@ export default function About() {
 </div>
 <div class="w-dyn-item" role="listitem">
 <div class="team_item">
-<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-image_wrap w-inline-block" href="/about">
 <div class="image-animation-trigger">
 <div class="image-animation-scale">
-<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/gen_team-image-1.jpg 500w, assets/img/gen_team-image-1.jpg 748w"/>
+<img alt="" class="team_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </a>
 <div class="team-item_content">
-<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="about.html">
+<a aria-label="doctor's profile" class="team-menmber_wrap w-inline-block" href="/about">
 <h3 class="team-menmber_name">Dr. Collins</h3>
 </a>
 <div class="team-menuber_info">
@@ -589,72 +589,72 @@ export default function About() {
 <div class="marquee_item">
 <div class="marquee-item_inner">
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22703503e46c521e06_job-image-1-p-500.webp 500w, assets/img/69e04a22703503e46c521e06_job-image-1.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a224235a048c0681b59_job-image-2-p-500.webp 500w, assets/img/69e04a224235a048c0681b59_job-image-2.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22189ced06cbe03360_job-image-3-p-500.webp 500w, assets/img/69e04a22189ced06cbe03360_job-image-3.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22dc5ccb1bff991531_job-image-4-p-500.webp 500w, assets/img/69e04a22dc5ccb1bff991531_job-image-4.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a223f433596d3d0395e_job-image-5-p-500.webp 500w, assets/img/69e04a223f433596d3d0395e_job-image-5.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="marquee-item_inner">
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22703503e46c521e06_job-image-1-p-500.webp 500w, assets/img/69e04a22703503e46c521e06_job-image-1.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a224235a048c0681b59_job-image-2-p-500.webp 500w, assets/img/69e04a224235a048c0681b59_job-image-2.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22189ced06cbe03360_job-image-3-p-500.webp 500w, assets/img/69e04a22189ced06cbe03360_job-image-3.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22dc5ccb1bff991531_job-image-4-p-500.webp 500w, assets/img/69e04a22dc5ccb1bff991531_job-image-4.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a223f433596d3d0395e_job-image-5-p-500.webp 500w, assets/img/69e04a223f433596d3d0395e_job-image-5.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>
 <div class="marquee_item">
 <div class="marquee-item_inner">
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22703503e46c521e06_job-image-1-p-500.webp 500w, assets/img/69e04a22703503e46c521e06_job-image-1.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a224235a048c0681b59_job-image-2-p-500.webp 500w, assets/img/69e04a224235a048c0681b59_job-image-2.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22189ced06cbe03360_job-image-3-p-500.webp 500w, assets/img/69e04a22189ced06cbe03360_job-image-3.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22dc5ccb1bff991531_job-image-4-p-500.webp 500w, assets/img/69e04a22dc5ccb1bff991531_job-image-4.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a223f433596d3d0395e_job-image-5-p-500.webp 500w, assets/img/69e04a223f433596d3d0395e_job-image-5.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="marquee-item_inner">
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22703503e46c521e06_job-image-1-p-500.webp 500w, assets/img/69e04a22703503e46c521e06_job-image-1.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a224235a048c0681b59_job-image-2-p-500.webp 500w, assets/img/69e04a224235a048c0681b59_job-image-2.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22189ced06cbe03360_job-image-3-p-500.webp 500w, assets/img/69e04a22189ced06cbe03360_job-image-3.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a22dc5ccb1bff991531_job-image-4-p-500.webp 500w, assets/img/69e04a22dc5ccb1bff991531_job-image-4.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="job-image_wrap">
-<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e04a223f433596d3d0395e_job-image-5-p-500.webp 500w, assets/img/69e04a223f433596d3d0395e_job-image-5.webp 740w"/>
+<img alt="Job image" class="job_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>
@@ -840,25 +840,25 @@ export default function About() {
 <div class="awards-tabs_menu w-tab-menu" data-w-id="178e67b7-2922-e9a2-969c-2e531e642587" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
 <a class="awards-tabs_link w-inline-block w-tab-link w--current" data-w-tab="Tab 1">
 <div class="awards-tabs_link-image_wrap">
-<img alt="Awards image" class="awards-tabs_link-image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69f603fd81d37039ab4ee292_awards-image-1-p-500.webp 500w, assets/img/69f603fd81d37039ab4ee292_awards-image-1-p-800.webp 800w, assets/img/69f603fd81d37039ab4ee292_awards-image-1.webp 960w"/>
+<img alt="Awards image" class="awards-tabs_link-image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_link-text">Best Fitness Gym Award</div>
 </a>
 <a class="awards-tabs_link w-inline-block w-tab-link" data-w-tab="Tab 2">
 <div class="awards-tabs_link-image_wrap">
-<img alt="Awards image" class="awards-tabs_link-image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69f603fd71d990572ddc9bf5_awards-image-2-p-500.webp 500w, assets/img/69f603fd71d990572ddc9bf5_awards-image-2-p-800.webp 800w, assets/img/69f603fd71d990572ddc9bf5_awards-image-2.webp 960w"/>
+<img alt="Awards image" class="awards-tabs_link-image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_link-text">Excellence in Member Care</div>
 </a>
 <a class="awards-tabs_link w-inline-block w-tab-link" data-w-tab="Tab 3">
 <div class="awards-tabs_link-image_wrap">
-<img alt="Awards image" class="awards-tabs_link-image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69f603fd5f23464634867a35_awards-image-3-p-500.webp 500w, assets/img/69f603fd5f23464634867a35_awards-image-3-p-800.webp 800w, assets/img/69f603fd5f23464634867a35_awards-image-3.webp 960w"/>
+<img alt="Awards image" class="awards-tabs_link-image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_link-text">Top Cosmetic Gym </div>
 </a>
 <a class="awards-tabs_link w-inline-block w-tab-link" data-w-tab="Tab 4">
 <div class="awards-tabs_link-image_wrap">
-<img alt="Awards image" class="awards-tabs_link-image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69f603fd8e5ebbe23b11d3be_awards-image-4-p-500.webp 500w, assets/img/69f603fd8e5ebbe23b11d3be_awards-image-4-p-800.webp 800w, assets/img/69f603fd8e5ebbe23b11d3be_awards-image-4.webp 960w"/>
+<img alt="Awards image" class="awards-tabs_link-image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_link-text">Certified Invisalign </div>
 </a>
@@ -915,7 +915,7 @@ export default function About() {
 </div>
 <div class="awards-tabs_pane-image">
 <div class="awards-tabs_image-wrap">
-<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69f603fd81d37039ab4ee292_awards-image-1-p-500.webp 500w, assets/img/69f603fd81d37039ab4ee292_awards-image-1-p-800.webp 800w, assets/img/69f603fd81d37039ab4ee292_awards-image-1.webp 960w"/>
+<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_image-content">
 <div class="awards-tabs_image-title_wrap">
@@ -977,7 +977,7 @@ export default function About() {
 </div>
 <div class="awards-tabs_pane-image">
 <div class="awards-tabs_image-wrap">
-<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69f603fd71d990572ddc9bf5_awards-image-2-p-500.webp 500w, assets/img/69f603fd71d990572ddc9bf5_awards-image-2-p-800.webp 800w, assets/img/69f603fd71d990572ddc9bf5_awards-image-2.webp 960w"/>
+<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_image-content">
 <div class="awards-tabs_image-title_wrap">
@@ -1039,7 +1039,7 @@ export default function About() {
 </div>
 <div class="awards-tabs_pane-image">
 <div class="awards-tabs_image-wrap">
-<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69f603fd5f23464634867a35_awards-image-3-p-500.webp 500w, assets/img/69f603fd5f23464634867a35_awards-image-3-p-800.webp 800w, assets/img/69f603fd5f23464634867a35_awards-image-3.webp 960w"/>
+<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_image-content">
 <div class="awards-tabs_image-title_wrap">
@@ -1101,7 +1101,7 @@ export default function About() {
 </div>
 <div class="awards-tabs_pane-image">
 <div class="awards-tabs_image-wrap">
-<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69f603fd8e5ebbe23b11d3be_awards-image-4-p-500.webp 500w, assets/img/69f603fd8e5ebbe23b11d3be_awards-image-4-p-800.webp 800w, assets/img/69f603fd8e5ebbe23b11d3be_awards-image-4.webp 960w"/>
+<img alt="Awards image" class="awards-tabs_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 <div class="awards-tabs_image-content">
 <div class="awards-tabs_image-title_wrap">
@@ -1158,7 +1158,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-500.webp 500w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-800.webp 800w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-1080.webp 1080w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1168,7 +1168,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254b5bfb8519af35c271_location-image-2-p-500.webp 500w, assets/img/69e1254b5bfb8519af35c271_location-image-2-p-800.webp 800w, assets/img/69e1254b5bfb8519af35c271_location-image-2-p-1080.webp 1080w, assets/img/69e1254b5bfb8519af35c271_location-image-2.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1178,7 +1178,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-500.webp 500w, assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-800.webp 800w, assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-1080.webp 1080w, assets/img/69e1254a118093ebd39a1ec4_location-image-3.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>
@@ -1190,7 +1190,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-500.webp 500w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-800.webp 800w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-1080.webp 1080w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1200,7 +1200,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254b5bfb8519af35c271_location-image-2-p-500.webp 500w, assets/img/69e1254b5bfb8519af35c271_location-image-2-p-800.webp 800w, assets/img/69e1254b5bfb8519af35c271_location-image-2-p-1080.webp 1080w, assets/img/69e1254b5bfb8519af35c271_location-image-2.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1210,7 +1210,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-500.webp 500w, assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-800.webp 800w, assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-1080.webp 1080w, assets/img/69e1254a118093ebd39a1ec4_location-image-3.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1517836357463-d25dfe09ce14?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>
@@ -1224,7 +1224,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-500.webp 500w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-800.webp 800w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-1080.webp 1080w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1234,7 +1234,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254b5bfb8519af35c271_location-image-2-p-500.webp 500w, assets/img/69e1254b5bfb8519af35c271_location-image-2-p-800.webp 800w, assets/img/69e1254b5bfb8519af35c271_location-image-2-p-1080.webp 1080w, assets/img/69e1254b5bfb8519af35c271_location-image-2.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1244,7 +1244,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-500.webp 500w, assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-800.webp 800w, assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-1080.webp 1080w, assets/img/69e1254a118093ebd39a1ec4_location-image-3.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>
@@ -1256,7 +1256,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-500.webp 500w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-800.webp 800w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1-p-1080.webp 1080w, assets/img/69e1254bc12dfcfe31c2c09e_location-image-1.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1266,7 +1266,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254b5bfb8519af35c271_location-image-2-p-500.webp 500w, assets/img/69e1254b5bfb8519af35c271_location-image-2-p-800.webp 800w, assets/img/69e1254b5bfb8519af35c271_location-image-2-p-1080.webp 1080w, assets/img/69e1254b5bfb8519af35c271_location-image-2.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 <div class="locatioin_item">
@@ -1276,7 +1276,7 @@ export default function About() {
 </div>
 <div class="location_overlay"></div>
 <div class="location-image_wrap">
-<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" srcset="assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-500.webp 500w, assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-800.webp 800w, assets/img/69e1254a118093ebd39a1ec4_location-image-3-p-1080.webp 1080w, assets/img/69e1254a118093ebd39a1ec4_location-image-3.webp 1140w"/>
+<img alt="Location image" class="location_image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </div>
 </div>
 </div>
@@ -1338,7 +1338,7 @@ export default function About() {
 <div class="section-padding">
 <div class="container">
 <div class="footer_header" data-w-id="a1b41f4f-e78b-52e6-2492-2ff9a80f251e">
-<a class="footer_brand w-inline-block" href="index.html" id="w-node-_69a072d1-69e6-8783-2548-858b3e84bf4f-4af74ce9">
+<a class="footer_brand w-inline-block" href="/" id="w-node-_69a072d1-69e6-8783-2548-858b3e84bf4f-4af74ce9">
 <img alt="Lumora logo" class="brand_logo" loading="lazy" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="footer-contact_wrap">
@@ -1381,16 +1381,16 @@ export default function About() {
 <div class="footer-links-column">
 <div class="footer-menu_title">Navigation</div>
 <div class="footer-menu_link-wrap">
-<a class="footer-menu_link w-inline-block" href="index.html">
+<a class="footer-menu_link w-inline-block" href="/">
 <div>Home</div>
 </a>
-<a aria-current="page" class="footer-menu_link w-inline-block w--current" href="about.html">
+<a aria-current="page" class="footer-menu_link w-inline-block w--current" href="/about">
 <div>About</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="service.html">
+<a class="footer-menu_link w-inline-block" href="/service">
 <div>Services</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="blog.html">
+<a class="footer-menu_link w-inline-block" href="/blog">
 <div>Blogs</div>
 </a>
 </div>
@@ -1398,16 +1398,16 @@ export default function About() {
 <div class="footer-links-column" id="w-node-_8ecb3a12-ee6e-7ca0-b061-e7854131557d-4af74ce9">
 <div class="footer-menu_title">Legal</div>
 <div class="footer-menu_link-wrap">
-<a class="footer-menu_link w-inline-block" href="terms.html">
+<a class="footer-menu_link w-inline-block" href="/terms">
 <div>Terms &amp;Conditions</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="cookies.html">
+<a class="footer-menu_link w-inline-block" href="/cookies">
 <div>Cookies</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="licenses.html">
+<a class="footer-menu_link w-inline-block" href="/licenses">
 <div>Licenses</div>
 </a>
-<a class="footer-menu_link w-inline-block" href="404.html">
+<a class="footer-menu_link w-inline-block" href="/404">
 <div>404</div>
 </a>
 </div>
@@ -1462,7 +1462,7 @@ export default function About() {
                                         © 2026 Iron Fitness
                                     </div>
 <div class="footer-bottom_right-divider"></div>
-<a class="footer-menu_link w-inline-block" href="privacy.html">
+<a class="footer-menu_link w-inline-block" href="/privacy">
 <div>Privacy Policy</div>
 </a>
 </div>

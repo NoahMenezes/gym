@@ -2,8 +2,8 @@ export default function Terms() {
   return (
     <div suppressHydrationWarning dangerouslySetInnerHTML={{ __html: `
 <div class="legal-nav">
-<a href="index.html"><img alt="Lumora Dental logo" height="30" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/></a>
-<a class="back" href="index.html">← Back to home</a>
+<a href="/"><img alt="Lumora Dental logo" height="30" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/></a>
+<a class="back" href="/">← Back to home</a>
 </div>
 <main class="legal-wrap">
 <h1>Terms &amp; Conditions</h1>
@@ -24,7 +24,7 @@ export default function Terms() {
 <h2>Contact</h2>
 <p>For any questions about these terms, contact <a href="mailto:hello@lumoradental.com">hello@lumoradental.com</a>.</p>
 </main>
-<div class="legal-foot">© 2026 Iron Fitness. All rights reserved. · <a href="privacy.html" style="color:#758696;">Privacy Policy</a></div>
+<div class="legal-foot">© 2026 Iron Fitness. All rights reserved. · <a href="/privacy" style="color:#758696;">Privacy Policy</a></div>
 <script>
 /* Lumora image guard: any failed/empty image -> on-brand gradient SVG so nothing ever looks broken. */
 (function(){

@@ -45,17 +45,16 @@ export default function RootLayout({
       <body suppressHydrationWarning>
         {children}
 
-        {/* Load jQuery BEFORE Webflow */}
-        <Script src="/assets/js/jquery-3.5.1.min.js" strategy="beforeInteractive" />
+        {/* Standard script tags with 'defer' guarantee exact execution order, which Webflow chunks require, without blocking the main render thread */}
+        <script defer src="/assets/js/jquery-3.5.1.min.js"></script>
         
-        {/* Load animations and Webflow lazily to improve performance */}
-        <Script src="/assets/js/gsap.min.js" strategy="lazyOnload" />
-        <Script src="/assets/js/SplitText.min.js" strategy="lazyOnload" />
-        <Script src="/assets/js/ScrollTrigger.min.js" strategy="lazyOnload" />
+        <script defer src="/assets/js/webflow.schunk.36b8fb49256177c8.js"></script>
+        <script defer src="/assets/js/webflow.schunk.5e71080783712679.js"></script>
+        <script defer src="/assets/js/webflow.c9187143.3b5f57f78ed8e3cc.js"></script>
         
-        <Script src="/assets/js/webflow.schunk.36b8fb49256177c8.js" strategy="lazyOnload" />
-        <Script src="/assets/js/webflow.schunk.5e71080783712679.js" strategy="lazyOnload" />
-        <Script src="/assets/js/webflow.c9187143.3b5f57f78ed8e3cc.js" strategy="lazyOnload" />
+        <script defer src="/assets/js/gsap.min.js"></script>
+        <script defer src="/assets/js/SplitText.min.js"></script>
+        <script defer src="/assets/js/ScrollTrigger.min.js"></script>
       </body>
     </html>
   );
