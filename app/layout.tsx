@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Script from "next/script";
 
+import "../public/assets/css/iron.css";
+import HardNavigation from "./HardNavigation";
+
 export const metadata: Metadata = {
   title: "Gym & Fitness Studio",
   description: "Modern, professional fitness training and state-of-the-art gym facilities.",
@@ -15,7 +18,6 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link href="/assets/css/lumora.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com" rel="preconnect" />
         <link href="https://fonts.gstatic.com" rel="preconnect" />
         
@@ -41,20 +43,20 @@ export default function RootLayout({
             `,
           }}
         />
+        {/* Next.js managed scripts to guarantee single execution and zero routing crashes */}
+        <Script src="/assets/js/jquery-3.5.1.min.js" strategy="beforeInteractive" />
+        
+        <Script src="/assets/js/webflow.schunk.36b8fb49256177c8.js" strategy="beforeInteractive" />
+        <Script src="/assets/js/webflow.schunk.5e71080783712679.js" strategy="beforeInteractive" />
+        <Script src="/assets/js/webflow.c9187143.3b5f57f78ed8e3cc.js" strategy="beforeInteractive" />
+        
+        <Script src="/assets/js/gsap.min.js" strategy="beforeInteractive" />
+        <Script src="/assets/js/SplitText.min.js" strategy="beforeInteractive" />
+        <Script src="/assets/js/ScrollTrigger.min.js" strategy="beforeInteractive" />
       </head>
       <body suppressHydrationWarning>
+        <HardNavigation />
         {children}
-
-        {/* Standard script tags with 'defer' guarantee exact execution order, which Webflow chunks require, without blocking the main render thread */}
-        <script defer src="/assets/js/jquery-3.5.1.min.js"></script>
-        
-        <script defer src="/assets/js/webflow.schunk.36b8fb49256177c8.js"></script>
-        <script defer src="/assets/js/webflow.schunk.5e71080783712679.js"></script>
-        <script defer src="/assets/js/webflow.c9187143.3b5f57f78ed8e3cc.js"></script>
-        
-        <script defer src="/assets/js/gsap.min.js"></script>
-        <script defer src="/assets/js/SplitText.min.js"></script>
-        <script defer src="/assets/js/ScrollTrigger.min.js"></script>
       </body>
     </html>
   );

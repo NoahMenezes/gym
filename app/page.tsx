@@ -5,7 +5,7 @@ export default function Home() {
 <div class="navbar_wrap w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" fs-scrolldisable-element="smart-nav" role="banner">
 <div class="navbar_container">
 <a aria-current="page" class="navbar_logo w-nav-brand w--current" href="/">
-<img alt="Lumora logo" class="logo_image" loading="eager" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Iron logo" class="logo_image" loading="eager" src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="navbar-content_wrap">
 <nav class="navbar_menu w-nav-menu" role="navigation">
@@ -48,7 +48,7 @@ export default function Home() {
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
 <div>Doctor Details</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://calendly.com/shreyasrajsony11">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://wa.me/9518346262">
 <div>Contact Us</div>
 </a>
 </div>
@@ -109,7 +109,7 @@ export default function Home() {
 <div class="navbar-button_wrapper">
 <div class="navbar_button hide-mobile">
 <div class="button-container">
-<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="https://calendly.com/shreyasrajsony11">
+<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Get Appointment</div>
@@ -150,16 +150,16 @@ export default function Home() {
 <div class="section_component">
 <div class="home-hero_content">
 <div class="margin-bottom margin-16px">
-<h1 class="hero-text-split" data-w-id="15f4ab3a-4cb8-bb3e-3e46-bdbd57d995b3" data-wf-target='[[["6989a716ebe888bb965ec33c","15f4ab3a-4cb8-bb3e-3e46-bdbd57d995b3"],[]]]' hero-text-split="" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">Trusted Fitness Care for Every Generation</h1>
+<h1 class="hero-text-split" data-w-id="15f4ab3a-4cb8-bb3e-3e46-bdbd57d995b3" data-wf-target='[[["6989a716ebe888bb965ec33c","15f4ab3a-4cb8-bb3e-3e46-bdbd57d995b3"],[]]]' hero-text-split="" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>Trusted Fitness Care for Every Generation</h1>
 </div>
 <div class="margin-bottom margin-32px">
-<p class="home-hero_para" data-w-id="59cae1c0-9ae0-0825-f9e9-7645d908b0e0" style="opacity:0">We combine modern technology with heartfelt service to ensure every generation.</p>
+<p class="home-hero_para" data-w-id="59cae1c0-9ae0-0825-f9e9-7645d908b0e0" style={{"opacity": "0"}}>We combine modern technology with heartfelt service to ensure every generation.</p>
 </div>
-<div class="button-container" data-w-id="123dbd0a-737f-01ae-eb77-4a2f18726493" style="opacity:0">
-<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://calendly.com/shreyasrajsony11">
+<div class="button-container" data-w-id="123dbd0a-737f-01ae-eb77-4a2f18726493" style={{"opacity": "0"}}>
+<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
-<div class="button_text">Book Appointment</div>
+<div class="button_text">Message on WhatsApp</div>
 </div>
 <div class="button-icon_group w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec">
 <div class="button-icon_wrap">
@@ -187,7 +187,7 @@ export default function Home() {
 <button class="lead-form_btn" type="submit">Request a callback</button>
 <div class="lead-form_note">No spam. A real person calls you back, fast.</div>
 </form>
-<div class="lead-form_success" style="display:none">
+<div class="lead-form_success" style={{"display": "none"}}>
 <div class="lead-form_title">Thanks! You're all set.</div>
 <div class="lead-form_sub">Our team will call you within 10 minutes.</div>
 </div>
@@ -196,7 +196,7 @@ export default function Home() {
 </div>
 </div>
 </div>
-<div class="our-info_wrap" data-w-id="4a010508-9584-456a-0d04-e7cbb6c6bb4f" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="our-info_wrap" data-w-id="4a010508-9584-456a-0d04-e7cbb6c6bb4f" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section-padding">
 <div class="container">
 <div class="section_component">
@@ -292,7 +292,7 @@ export default function Home() {
 <div class="margin-bottom margin-56px">
 <div class="our-story_header">
 <div class="content-align-center">
-<div class="margin-bottom margin-12px" data-w-id="45f1dfd8-7da9-2fd2-e786-deef9a5d04f1" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="margin-bottom margin-12px" data-w-id="45f1dfd8-7da9-2fd2-e786-deef9a5d04f1" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section_tag">
 <div class="icon_wrap is-small">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 12 12" width="100%" xmlns="http://www.w3.org/2000/svg">
@@ -302,13 +302,13 @@ export default function Home() {
 <div>Our Story</div>
 </div>
 </div>
-<h2 data-w-id="89d2c27f-ce49-39b1-4d32-4b51356a9834" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" text-split="">
+<h2 data-w-id="89d2c27f-ce49-39b1-4d32-4b51356a9834" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}} text-split="">
                                             Redefining Fitness Care with Trust, Innovation in <span class="text-highlighted">Fitness Wellness</span>
 </h2>
 </div>
 </div>
 </div>
-<div class="our-story_element" data-w-id="50d20822-b82e-29fa-5a00-90a7c3dad777" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="our-story_element" data-w-id="50d20822-b82e-29fa-5a00-90a7c3dad777" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="story_slider w-slider" data-animation="slide" data-autoplay="true" data-autoplay-limit="0" data-delay="4000" data-disable-swipe="false" data-duration="400" data-easing="ease" data-hide-arrows="false" data-infinite="true" data-nav-spacing="3">
 <div class="story-slider_mask w-slider-mask">
 <div class="story-slider_slide w-slide">
@@ -580,7 +580,7 @@ export default function Home() {
 <div class="margin-bottom margin-56px">
 <div class="home-service_header">
 <div class="home-service_header-content">
-<div class="margin-bottom margin-12px" data-w-id="62f3134b-0a64-f0b4-9c52-b0a14947355a" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="margin-bottom margin-12px" data-w-id="62f3134b-0a64-f0b4-9c52-b0a14947355a" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section_tag">
 <div class="icon_wrap is-small">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 12 12" width="100%" xmlns="http://www.w3.org/2000/svg">
@@ -591,13 +591,13 @@ export default function Home() {
 </div>
 </div>
 <div class="margin-bottom margin-16px">
-<h2 data-w-id="e7b05ae6-acb7-e587-0efc-41d9940f7862" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<h2 data-w-id="e7b05ae6-acb7-e587-0efc-41d9940f7862" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
                                                         Comprehensive Fitness Care for <span class="text-highlighted">Every Strength</span>
 </h2>
 </div>
-<p data-w-id="6dfeacc9-c462-98c5-51c9-b2e521b474e8" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">At Iron, we combine expertise, compassion, and modern technology to create a fitness experience that members truly value.</p>
+<p data-w-id="6dfeacc9-c462-98c5-51c9-b2e521b474e8" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>At Iron, we combine expertise, compassion, and modern technology to create a fitness experience that members truly value.</p>
 </div>
-<div class="home-service_button" data-w-id="17c80cc5-2289-6c10-a51b-0f6f1a06e885" id="w-node-_17c80cc5-2289-6c10-a51b-0f6f1a06e885-965ec33c" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="home-service_button" data-w-id="17c80cc5-2289-6c10-a51b-0f6f1a06e885" id="w-node-_17c80cc5-2289-6c10-a51b-0f6f1a06e885-965ec33c" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <a class="button_primary w-inline-block" data-wf--button-primary--variant="base" href="/service">
 <div class="button_inner">
 <div class="button-text_wrap">
@@ -621,14 +621,14 @@ export default function Home() {
 </div>
 </div>
 <div class="scroll-mobile_trigger">
-<div class="scroll-mobile_camera" data-w-id="71cef23b-d7ba-346b-b7f2-b6a0be118667" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="scroll-mobile_camera" data-w-id="71cef23b-d7ba-346b-b7f2-b6a0be118667" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="service_wrap">
 <div class="scroll_track">
 <div class="scroll_list">
 <div class="collection-list-wrapper w-dyn-list">
 <div class="service_list w-dyn-items" role="list">
 <div class="service_item-wrap w-dyn-item" role="listitem">
-<div class="service_item" style="background-color:#f3f6ff">
+<div class="service_item" style={{"background-color": "#f3f6ff"}}>
 <div class="service_content">
 <div class="service-item_number">
 <div class="service-item_number_text">[</div>
@@ -707,7 +707,7 @@ export default function Home() {
 </div>
 </div>
 <div class="service_item-wrap w-dyn-item" role="listitem">
-<div class="service_item" style="background-color:#fef5ec">
+<div class="service_item" style={{"background-color": "#fef5ec"}}>
 <div class="service_content">
 <div class="service-item_number">
 <div class="service-item_number_text">[</div>
@@ -786,7 +786,7 @@ export default function Home() {
 </div>
 </div>
 <div class="service_item-wrap w-dyn-item" role="listitem">
-<div class="service_item" style="background-color:#effff7">
+<div class="service_item" style={{"background-color": "#effff7"}}>
 <div class="service_content">
 <div class="service-item_number">
 <div class="service-item_number_text">[</div>
@@ -865,7 +865,7 @@ export default function Home() {
 </div>
 </div>
 <div class="service_item-wrap w-dyn-item" role="listitem">
-<div class="service_item" style="background-color:#f7efff">
+<div class="service_item" style={{"background-color": "#f7efff"}}>
 <div class="service_content">
 <div class="service-item_number">
 <div class="service-item_number_text">[</div>
@@ -961,7 +961,7 @@ export default function Home() {
 <div class="margin-bottom margin-56px">
 <div class="home-team_header">
 <div class="content-align-center">
-<div class="margin-bottom margin-12px" data-w-id="2988a275-db63-a12d-9113-880275109165" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="margin-bottom margin-12px" data-w-id="2988a275-db63-a12d-9113-880275109165" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section_tag">
 <div class="icon_wrap is-small">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 12 12" width="100%" xmlns="http://www.w3.org/2000/svg">
@@ -973,13 +973,13 @@ export default function Home() {
 </div>
 <div class="margin-bottom margin-16px">
 <div class="home-team_header-title">
-<h2 data-w-id="d94213c9-bdff-4512-8f3e-fd2f798ca81c" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<h2 data-w-id="d94213c9-bdff-4512-8f3e-fd2f798ca81c" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
                                                     Our <span class="text-highlighted">Experts</span>
                                                     in Oral Health
                                                 </h2>
 </div>
 </div>
-<p class="home-team_header-para" data-w-id="5355ea69-e202-49f3-e251-20b87573032e" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">Each member of our clinical staff is not only highly qualified but deeply passionate about helping members achieve healthier.</p>
+<p class="home-team_header-para" data-w-id="5355ea69-e202-49f3-e251-20b87573032e" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>Each member of our clinical staff is not only highly qualified but deeply passionate about helping members achieve healthier.</p>
 </div>
 </div>
 </div>
@@ -1082,7 +1082,7 @@ export default function Home() {
 </div>
 </div>
 </div>
-<div class="button-container" data-w-id="3f17d948-c620-04fc-791a-273f85d435fa" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="button-container" data-w-id="3f17d948-c620-04fc-791a-273f85d435fa" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="content-align-center">
 <a class="button_primary w-inline-block" data-wf--button-primary--variant="base" href="https://about#team-members">
 <div class="button_inner">
@@ -1113,7 +1113,7 @@ export default function Home() {
 <div class="container">
 <div class="margin-bottom margin-56px">
 <div class="home-value_header">
-<div class="margin-bottom margin-12px" data-w-id="063575fc-287b-66fe-eb65-e358b87e66aa" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="margin-bottom margin-12px" data-w-id="063575fc-287b-66fe-eb65-e358b87e66aa" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section_tag">
 <div class="icon_wrap is-small">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 12 12" width="100%" xmlns="http://www.w3.org/2000/svg">
@@ -1124,11 +1124,11 @@ export default function Home() {
 </div>
 </div>
 <div class="margin-bottom margin-16px">
-<h2 data-w-id="77cb60c6-0b39-2199-41d7-7817567d8c37" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<h2 data-w-id="77cb60c6-0b39-2199-41d7-7817567d8c37" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
                                             We Treat You Like Family, Because Your <span class="text-highlighted">Strength Matters Most</span>
 </h2>
 </div>
-<div class="home-value_header-para" data-w-id="171cabe9-c174-cdd1-e2ad-0a13d16a9e7c" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="home-value_header-para" data-w-id="171cabe9-c174-cdd1-e2ad-0a13d16a9e7c" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <p class="body-text-18px">At Iron, we combine expertise, compassion, and modern technology to create a fitness experience that members truly value.</p>
 </div>
 </div>
@@ -1221,7 +1221,7 @@ export default function Home() {
 </div>
 </div>
 <div class="home-value_image-wrap" id="w-node-_5b767983-ec09-06ac-0772-7c427fc7d118-965ec33c">
-<img alt="Value image" class="home-value_image" data-w-id="873c2836-960d-5b59-d9c4-47329988daeb" loading="lazy" sizes="(max-width: 960px) 100vw, 960px" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"/>
+<img alt="Value image" class="home-value_image" data-w-id="873c2836-960d-5b59-d9c4-47329988daeb" loading="lazy" sizes="(max-width: 960px) 100vw, 960px" src="https://images.unsplash.com/photo-1574680096145-d05b474e2155?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" style={{-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}}/>
 </div>
 </div>
 </div>
@@ -1328,7 +1328,7 @@ export default function Home() {
 <div class="margin-bottom margin-56px">
 <div class="home-blog_header">
 <div class="home-blog_header-content">
-<div class="margin-bottom margin-12px" data-w-id="9a207a8e-e9ed-e4b1-3128-0d89337d9663" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="margin-bottom margin-12px" data-w-id="9a207a8e-e9ed-e4b1-3128-0d89337d9663" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section_tag">
 <div class="icon_wrap is-small">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 12 12" width="100%" xmlns="http://www.w3.org/2000/svg">
@@ -1338,11 +1338,11 @@ export default function Home() {
 <div>Blogs</div>
 </div>
 </div>
-<h2 data-w-id="9a207a8e-e9ed-e4b1-3128-0d89337d9667" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<h2 data-w-id="9a207a8e-e9ed-e4b1-3128-0d89337d9667" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
                                             Stories and Tips From <span class="text-highlighted">Around the World</span>
 </h2>
 </div>
-<div class="home-blog_header-button" data-w-id="9a207a8e-e9ed-e4b1-3128-0d89337d966d" id="w-node-_9a207a8e-e9ed-e4b1-3128-0d89337d966d-965ec33c" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="home-blog_header-button" data-w-id="9a207a8e-e9ed-e4b1-3128-0d89337d966d" id="w-node-_9a207a8e-e9ed-e4b1-3128-0d89337d966d-965ec33c" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <a class="button_primary w-inline-block" data-wf--button-primary--variant="base" href="/blog">
 <div class="button_inner">
 <div class="button-text_wrap">
@@ -1498,7 +1498,7 @@ export default function Home() {
 <p>Our team is ready to assist you with anything you need.</p>
 </div>
 <div class="faq-cta_info-button">
-<a class="button_primary w-variant-1a94fba4-1615-e418-bbea-f08bbc622622 w-inline-block" data-wf--button-primary--variant="small" href="https://calendly.com/shreyasrajsony11">
+<a class="button_primary w-variant-1a94fba4-1615-e418-bbea-f08bbc622622 w-inline-block" data-wf--button-primary--variant="small" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Make A Call</div>
@@ -1629,7 +1629,7 @@ export default function Home() {
 <p class="text-color-light" data-w-id="875ac5c5-fc76-0575-598a-0f09e52c424f">Your health journey starts with one simple step, we’re here to guide you.</p>
 </div>
 <div class="button-container" data-w-id="875ac5c5-fc76-0575-598a-0f09e52c4251">
-<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://calendly.com/shreyasrajsony11">
+<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Get Started</div>
@@ -1664,7 +1664,7 @@ export default function Home() {
 <div class="container">
 <div class="footer_header" data-w-id="a1b41f4f-e78b-52e6-2492-2ff9a80f251e">
 <a aria-current="page" class="footer_brand w-inline-block w--current" href="/" id="w-node-_69a072d1-69e6-8783-2548-858b3e84bf4f-4af74ce9">
-<img alt="Lumora logo" class="brand_logo" loading="lazy" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Iron logo" class="brand_logo" loading="lazy" src="https://images.unsplash.com/photo-1599058917212-d750089bc07e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="footer-contact_wrap">
 <a class="footer-contact_link w-inline-block" href="tel:+91 9307512816">
@@ -1682,7 +1682,7 @@ export default function Home() {
 <p class="footer-info_para">Advanced technology, a caring team, and treatments designed to keep your strength healthy for life. </p>
 </div>
 </div>
-<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://calendly.com/shreyasrajsony11">
+<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Get Appointment</div>
@@ -1779,7 +1779,7 @@ export default function Home() {
 <div class="footer_bottom" data-w-id="c179c474-dbf0-a107-6eba-5d7b4af74d6f">
 <div class="footer-bottom_element">
 <div class="text-color-dark">
-                                    © 2026 Iron Fitness. Crafted by RapidXAI
+                                    © 2026 Iron Fitness. Crafted by VGen Studio
                                     .
                                 </div>
 <div class="footer-bottom_right">
@@ -1797,153 +1797,18 @@ export default function Home() {
 </div>
 </footer>
 </div>
-<script src="assets/js/jquery-3.5.1.min.js" type="text/javascript"></script>
-<script src="assets/js/webflow.schunk.36b8fb49256177c8.js" type="text/javascript"></script>
-<script src="assets/js/webflow.schunk.5e71080783712679.js" type="text/javascript"></script>
-<script src="assets/js/webflow.c9187143.3b5f57f78ed8e3cc.js" type="text/javascript"></script>
-<script src="assets/js/gsap.min.js" type="text/javascript"></script>
-<script src="assets/js/SplitText.min.js" type="text/javascript"></script>
-<script src="assets/js/ScrollTrigger.min.js" type="text/javascript"></script>
-<script>
 
-            gsap.registerPlugin(ScrollTrigger);
 
-            document.addEventListener("DOMContentLoaded", () => {
 
-                initCounterAnimations();
-            }
-            );
 
-            /* ========== GSAP COUNTER ========== */
-            function initCounterAnimations() {
-                const counters = document.querySelectorAll(".about-hero_info-item_title");
 
-                counters.forEach( (counter) => {
-                    const targetText = counter.textContent.trim();
-                    const targetNumber = parseFloat(targetText.replace(/[^\d.]/g, "")) || 0;
-                    const suffix = targetText.replace(/[\d.,\s]/g, "");
 
-                    // Start from 0
-                    gsap.set(counter, {
-                        innerText: 0
-                    });
 
-                    gsap.to(counter, {
-                        innerText: targetNumber,
-                        duration: 3.5,
-                        ease: "power2.out",
-                        snap: {
-                            innerText: 1
-                        },
-                        scrollTrigger: {
-                            trigger: counter,
-                            start: "top 85%",
-                            toggleActions: "play none none reset"
-                        },
-                        onUpdate: function() {
-                            const value = Math.ceil(this.targets()[0].innerText);
-                            counter.innerText = value.toLocaleString("en-US") + suffix;
-                        }
-                    });
-                }
-                );
-            }
-        </script>"
-".        <script>
-            /* Lumora reveal engine v2, fade/slide reveals (NO blur) replacing the
-               Webflow IX2 reveals that no longer fire. Bulletproof: a safety net forces
-               any element still hidden to show, so text/images never stay invisible. */
-            (function () {
-                function runReveals() {
-                    if (!window.gsap) return;
-                    var hasST = !!window.ScrollTrigger;
-                    if (hasST) gsap.registerPlugin(ScrollTrigger);
-                    var els = gsap.utils.toArray('[data-w-id]').filter(function (el) {
-                        var s = el.getAttribute('style') || '';
-                        if (s.indexOf('opacity:0') === -1) return false;
-                        if (el.closest('.navbar_wrap') || el.closest('.w-nav') || el.closest('.w-dropdown-list')) return false;
-                        return true;
-                    });
-                    els.forEach(function (el) {
-                        gsap.set(el, { clearProps: 'transform,filter' });
-                        gsap.fromTo(el,
-                            { opacity: 0, y: 40 },
-                            {
-                                opacity: 1, y: 0, duration: 0.9, ease: 'power2.out',
-                                scrollTrigger: hasST ? { trigger: el, start: 'top 97%', once: true } : undefined
-                            }
-                        );
-                    });
-                    if (hasST) {
-                        window.addEventListener('load', function () { ScrollTrigger.refresh(); });
-                        ScrollTrigger.refresh();
-                    }
-                    /* Safety net: after a beat, force anything still invisible to show */
-                    setTimeout(function () {
-                        els.forEach(function (el) {
-                            if (parseFloat(getComputedStyle(el).opacity) === 0) {
-                                gsap.set(el, { opacity: 1, y: 0, clearProps: 'transform,filter' });
-                            }
-                        });
-                    }, 2600);
-                }
-                if (document.readyState !== 'loading') setTimeout(runReveals, 150);
-                else document.addEventListener('DOMContentLoaded', function () { setTimeout(runReveals, 150); });
-            })();
-        </script>
-<script>
-            function lumoraLead(e){
-                e.preventDefault();
-                var f=e.target;
-                var name=(f.querySelector('input[name="name"]').value||'').trim();
-                var phone=(f.querySelector('input[name="phone"]').value||'').trim();
-                if(!name||!phone){return false;}
-                var msg=encodeURIComponent("Hi Lumora Dental, I'm "+name+". Please call me back at "+phone+" for a dental appointment.");
-                try{ window.open("https://wa.me/919307512816?text="+msg,"_blank"); }catch(_){}
-                var card=f.closest('.lead-form_card');
-                if(card){
-                    f.style.display='none';
-                    var head=card.querySelector('.lead-form_head'); if(head) head.style.display='none';
-                    var ok=card.querySelector('.lead-form_success'); if(ok) ok.style.display='block';
-                }
-                return false;
-            }
-        </script>
-<script>
-            (function(){
-                function startHeroCarousel(){
-                    var imgs=document.querySelectorAll('.hero-carousel-img');
-                    if(imgs.length<2) return;
-                    var i=0;
-                    setInterval(function(){
-                        imgs[i].classList.remove('is-active');
-                        i=(i+1)%imgs.length;
-                        imgs[i].classList.add('is-active');
-                    },5000);
-                }
-                document.readyState!=='loading'?startHeroCarousel():document.addEventListener('DOMContentLoaded',startHeroCarousel);
-            })();
-        </script>
-<script>
-/* Lumora image guard: any failed/empty image -> on-brand gradient SVG so nothing ever looks broken. */
-(function(){
-  function ph(label){
-    var t=(label||'Lumora Dental').replace(/[<>&]/g,'').slice(0,22);
-    var svg='<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">'
-     +'<defs><linearGradient id="lg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">'
-     +'<stop offset="0" stop-color="#24a3b1"/><stop offset="1" stop-color="#011f23"/></linearGradient></defs>'
-     +'<rect width="1280" height="720" fill="url(#lg)"/>'
-     +'<circle cx="640" cy="298" r="44" fill="#fff" opacity="0.9"/>'
-     +'<text x="640" y="436" fill="#fff" font-family="Sora,Arial" font-size="40" font-weight="600" text-anchor="middle" opacity="0.92">'+t+'</text></svg>';
-    return 'data:image/svg+xml;utf8,'+encodeURIComponent(svg);
-  }
-  function bind(im){
-    im.addEventListener('error',function(){ if(im.dataset.fbk)return; im.dataset.fbk='1'; im.src=ph(im.alt); });
-    if(im.complete && im.naturalWidth===0 && !im.dataset.fbk){ im.dataset.fbk='1'; im.src=ph(im.alt); }
-  }
-  document.querySelectorAll('img').forEach(bind);
-})();
-</script>
+"
+".        
+
+
+
 ` }} />
   );
 }

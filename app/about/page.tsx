@@ -5,7 +5,7 @@ export default function About() {
 <div class="navbar_wrap w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" fs-scrolldisable-element="smart-nav" role="banner">
 <div class="navbar_container">
 <a class="navbar_logo w-nav-brand" href="/">
-<img alt="Lumora logo" class="logo_image" loading="eager" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Iron logo" class="logo_image" loading="eager" src="https://images.unsplash.com/photo-1526566762798-8fac9c07aa7f?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="navbar-content_wrap">
 <nav class="navbar_menu w-nav-menu" role="navigation">
@@ -48,7 +48,7 @@ export default function About() {
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
 <div>Doctor Details</div>
 </a>
-<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://calendly.com/shreyasrajsony11">
+<a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://wa.me/9518346262">
 <div>Contact Us</div>
 </a>
 </div>
@@ -109,7 +109,7 @@ export default function About() {
 <div class="navbar-button_wrapper">
 <div class="navbar_button hide-mobile">
 <div class="button-container">
-<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="https://calendly.com/shreyasrajsony11">
+<a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Get Appointment</div>
@@ -155,10 +155,10 @@ export default function About() {
 <h1 hero-text-split="">Trusted Fitness Experts, Decades of Care</h1>
 </div>
 <div class="margin-bottom margin-32px">
-<p class="about-hero_para" data-w-id="2a63e096-69fe-d674-1e81-e817d23d0490" style="opacity:0">At Iron, we combine compassion, innovation, and expertise to provide care you can trust. Your strength is our mission, and your comfort is our priority.</p>
+<p class="about-hero_para" data-w-id="2a63e096-69fe-d674-1e81-e817d23d0490" style={{"opacity": "0"}}>At Iron, we combine compassion, innovation, and expertise to provide care you can trust. Your strength is our mission, and your comfort is our priority.</p>
 </div>
-<div class="button-container" data-w-id="2a63e096-69fe-d674-1e81-e817d23d0492" style="opacity:0">
-<a class="button_primary w-inline-block" data-wf--button-primary--variant="base" href="https://calendly.com/shreyasrajsony11">
+<div class="button-container" data-w-id="2a63e096-69fe-d674-1e81-e817d23d0492" style={{"opacity": "0"}}>
+<a class="button_primary w-inline-block" data-wf--button-primary--variant="base" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Book An Appointment</div>
@@ -199,8 +199,8 @@ export default function About() {
 </div>
 </div>
 </div>
-<div class="about-hero_image-wrap" data-w-id="13f35a51-6f31-0fc5-cc8d-c0464d8ccc39" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
-<img alt="About image" class="about-hero_image" data-w-id="0eb5616a-32aa-f331-47e8-42e10447f18d" loading="lazy" sizes="(max-width: 2320px) 100vw, 2320px" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);"/>
+<div class="about-hero_image-wrap" data-w-id="13f35a51-6f31-0fc5-cc8d-c0464d8ccc39" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
+<img alt="About image" class="about-hero_image" data-w-id="0eb5616a-32aa-f331-47e8-42e10447f18d" loading="lazy" sizes="(max-width: 2320px) 100vw, 2320px" src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&amp;w=1470&amp;auto=format&amp;fit=crop" style={{-webkit-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1.5, 1.5, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}}/>
 </div>
 </div>
 </div>
@@ -213,7 +213,7 @@ export default function About() {
 <div class="section_component">
 <div class="about-story_content">
 <div class="content-align-center">
-<div class="margin-bottom margin-12px" data-w-id="a4c06514-eacc-f155-c8eb-f94540264326" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="margin-bottom margin-12px" data-w-id="a4c06514-eacc-f155-c8eb-f94540264326" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section_tag">
 <div class="icon_wrap is-small">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 12 12" width="100%" xmlns="http://www.w3.org/2000/svg">
@@ -224,17 +224,17 @@ export default function About() {
 </div>
 </div>
 <div class="margin-bottom margin-16px">
-<h2 class="heading-custom-h3" data-w-id="6e1e9670-e608-ebb7-57d4-1a8a2967db15" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<h2 class="heading-custom-h3" data-w-id="6e1e9670-e608-ebb7-57d4-1a8a2967db15" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
                                                 A Journey of Trusted Fitness Care, Built on <span class="text-highlighted">Compassion and Innovation</span>
                                                 , For more than two decades
                                             </h2>
 </div>
 <div class="margin-bottom margin-32px">
 <div class="about-story_para">
-<p class="body-text-18px" data-w-id="57a25a7a-8c0b-4d81-59a1-9671c5b5cbe5" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">Iron has been dedicated to improving lives through healthier smiles. From our humble beginnings to becoming a trusted name in fitness care</p>
+<p class="body-text-18px" data-w-id="57a25a7a-8c0b-4d81-59a1-9671c5b5cbe5" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>Iron has been dedicated to improving lives through healthier smiles. From our humble beginnings to becoming a trusted name in fitness care</p>
 </div>
 </div>
-<div class="button-container" data-w-id="bb2642b1-bfa3-9fb0-2c8b-1d550464ad27" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="button-container" data-w-id="bb2642b1-bfa3-9fb0-2c8b-1d550464ad27" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <a class="button_primary w-inline-block" data-wf--button-primary--variant="base" href="/blog">
 <div class="button_inner">
 <div class="button-text_wrap">
@@ -285,7 +285,7 @@ export default function About() {
 <div class="margin-bottom margin-56px">
 <div class="success-header">
 <div class="content-align-center">
-<div class="margin-bottom margin-12px" data-w-id="f0643ca4-def0-d25a-bdfb-36bb56724365" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="margin-bottom margin-12px" data-w-id="f0643ca4-def0-d25a-bdfb-36bb56724365" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section_tag">
 <div class="icon_wrap is-small">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 12 12" width="100%" xmlns="http://www.w3.org/2000/svg">
@@ -295,7 +295,7 @@ export default function About() {
 <div>Our Success Number</div>
 </div>
 </div>
-<h2 class="heading-custom-h3" data-w-id="7be24271-8823-a9fc-2237-06b13a4b788a" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<h2 class="heading-custom-h3" data-w-id="7be24271-8823-a9fc-2237-06b13a4b788a" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
                                                 Quick facts that highlight our journey, trust, and <span class="text-highlighted">community impact</span>
 </h2>
 </div>
@@ -347,7 +347,7 @@ export default function About() {
 <div class="margin-bottom margin-56px">
 <div class="team_header is-about">
 <div class="about-team_header-content">
-<div class="margin-bottom margin-12px" data-w-id="4525af4d-86e5-d634-9e8f-b502d5e98c72" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="margin-bottom margin-12px" data-w-id="4525af4d-86e5-d634-9e8f-b502d5e98c72" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section_tag">
 <div class="icon_wrap is-small">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 12 12" width="100%" xmlns="http://www.w3.org/2000/svg">
@@ -357,12 +357,12 @@ export default function About() {
 <div>Our Team</div>
 </div>
 </div>
-<h2 data-w-id="4525af4d-86e5-d634-9e8f-b502d5e98c75" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<h2 data-w-id="4525af4d-86e5-d634-9e8f-b502d5e98c75" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
                                             Superheroes Behind the <span class="text-highlighted">Fitness Care</span>
 </h2>
 </div>
 <div class="about-team_para-wrap" id="w-node-_7ca7d48a-77c9-2b74-04de-6d116d75d6cf-965ec33d">
-<p class="about-team_para" data-w-id="bcbebfde-cdd4-c91d-c8fe-58183c27775a" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">Each member of our clinical staff is not only highly qualified but deeply passionate about helping members achieve healthier.</p>
+<p class="about-team_para" data-w-id="bcbebfde-cdd4-c91d-c8fe-58183c27775a" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>Each member of our clinical staff is not only highly qualified but deeply passionate about helping members achieve healthier.</p>
 </div>
 </div>
 </div>
@@ -565,7 +565,7 @@ export default function About() {
 <div class="section_component">
 <div class="margin-bottom margin-56px">
 <div class="job_header">
-<div class="job-header_tag" data-w-id="f95b58f8-ba8b-0d31-78b9-c4b1096adf3b" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="job-header_tag" data-w-id="f95b58f8-ba8b-0d31-78b9-c4b1096adf3b" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="section_tag">
 <div class="icon_wrap is-small">
 <svg fill="none" preserveaspectratio="none" vector-effect="non-scaling-stroke" viewbox="0 0 12 12" width="100%" xmlns="http://www.w3.org/2000/svg">
@@ -575,7 +575,7 @@ export default function About() {
 <div>Get In Touch</div>
 </div>
 </div>
-<h2 data-w-id="098ed022-441d-c2a3-8fdb-804d6133d6f6" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<h2 data-w-id="098ed022-441d-c2a3-8fdb-804d6133d6f6" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
                                             Your <span class="text-highlighted">Next Career</span>
                                             Starts Here
                                         </h2>
@@ -584,7 +584,7 @@ export default function About() {
 </div>
 </div>
 </div>
-<div class="job-images_list" data-w-id="33779dec-7d1e-bf96-aaeb-09d43429d0d9" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="job-images_list" data-w-id="33779dec-7d1e-bf96-aaeb-09d43429d0d9" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="marquee_list">
 <div class="marquee_item">
 <div class="marquee-item_inner">
@@ -837,7 +837,7 @@ export default function About() {
 <div class="container">
 <div class="section_component">
 <div class="awards_tabs w-tabs" data-current="Tab 1" data-duration-in="300" data-duration-out="100" data-easing="ease">
-<div class="awards-tabs_menu w-tab-menu" data-w-id="178e67b7-2922-e9a2-969c-2e531e642587" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="awards-tabs_menu w-tab-menu" data-w-id="178e67b7-2922-e9a2-969c-2e531e642587" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <a class="awards-tabs_link w-inline-block w-tab-link w--current" data-w-tab="Tab 1">
 <div class="awards-tabs_link-image_wrap">
 <img alt="Awards image" class="awards-tabs_link-image" loading="lazy" sizes="100vw" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
@@ -863,7 +863,7 @@ export default function About() {
 <div class="awards-tabs_link-text">Certified Invisalign </div>
 </a>
 </div>
-<div class="awards-tabs_content w-tab-content" data-w-id="178e67b7-2922-e9a2-969c-2e531e642591" style="-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="awards-tabs_content w-tab-content" data-w-id="178e67b7-2922-e9a2-969c-2e531e642591" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <div class="w-tab-pane w--tab-active" data-w-tab="Tab 1">
 <div class="awards-tabs_pane-inner">
 <div class="awards-tabs_pane-content">
@@ -1304,7 +1304,7 @@ export default function About() {
 <p class="text-color-light" data-w-id="875ac5c5-fc76-0575-598a-0f09e52c424f">Your health journey starts with one simple step, we’re here to guide you.</p>
 </div>
 <div class="button-container" data-w-id="875ac5c5-fc76-0575-598a-0f09e52c4251">
-<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://calendly.com/shreyasrajsony11">
+<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Get Started</div>
@@ -1339,7 +1339,7 @@ export default function About() {
 <div class="container">
 <div class="footer_header" data-w-id="a1b41f4f-e78b-52e6-2492-2ff9a80f251e">
 <a class="footer_brand w-inline-block" href="/" id="w-node-_69a072d1-69e6-8783-2548-858b3e84bf4f-4af74ce9">
-<img alt="Lumora logo" class="brand_logo" loading="lazy" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
+<img alt="Iron logo" class="brand_logo" loading="lazy" src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?q=80&amp;w=1470&amp;auto=format&amp;fit=crop"/>
 </a>
 <div class="footer-contact_wrap">
 <a class="footer-contact_link w-inline-block" href="tel:+91 9307512816">
@@ -1357,7 +1357,7 @@ export default function About() {
 <p class="footer-info_para">Advanced technology, a caring team, and treatments designed to keep your strength healthy for life. </p>
 </div>
 </div>
-<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://calendly.com/shreyasrajsony11">
+<a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
 <div class="button_text">Get Appointment</div>
@@ -1454,7 +1454,7 @@ export default function About() {
 <div class="footer_bottom" data-w-id="c179c474-dbf0-a107-6eba-5d7b4af74d6f">
 <div class="footer-bottom_element">
 <div class="text-color-dark">
-                                    © 2026 Iron Fitness. Crafted by RapidXAI
+                                    © 2026 Iron Fitness. Crafted by VGen Studio
                                     .
                                 </div>
 <div class="footer-bottom_right">
@@ -1472,120 +1472,16 @@ export default function About() {
 </div>
 </footer>
 </div>
-<script src="assets/js/jquery-3.5.1.min.js" type="text/javascript"></script>
-<script src="assets/js/webflow.schunk.36b8fb49256177c8.js" type="text/javascript"></script>
-<script src="assets/js/webflow.schunk.5e71080783712679.js" type="text/javascript"></script>
-<script src="assets/js/webflow.c9187143.3b5f57f78ed8e3cc.js" type="text/javascript"></script>
-<script src="assets/js/gsap.min.js" type="text/javascript"></script>
-<script src="assets/js/SplitText.min.js" type="text/javascript"></script>
-<script src="assets/js/ScrollTrigger.min.js" type="text/javascript"></script>
-<script>
 
-            gsap.registerPlugin(ScrollTrigger);
 
-            document.addEventListener("DOMContentLoaded", () => {
 
-                initCounterAnimations();
-            }
-            );
 
-            /* ========== GSAP COUNTER ========== */
-            function initCounterAnimations() {
-                const counters = document.querySelectorAll(".about-hero_info-item_title");
 
-                counters.forEach( (counter) => {
-                    const targetText = counter.textContent.trim();
-                    const targetNumber = parseFloat(targetText.replace(/[^\d.]/g, "")) || 0;
-                    const suffix = targetText.replace(/[\d.,\s]/g, "");
 
-                    // Start from 0
-                    gsap.set(counter, {
-                        innerText: 0
-                    });
 
-                    gsap.to(counter, {
-                        innerText: targetNumber,
-                        duration: 3.5,
-                        ease: "power2.out",
-                        snap: {
-                            innerText: 1
-                        },
-                        scrollTrigger: {
-                            trigger: counter,
-                            start: "top 85%",
-                            toggleActions: "play none none reset"
-                        },
-                        onUpdate: function() {
-                            const value = Math.ceil(this.targets()[0].innerText);
-                            counter.innerText = value.toLocaleString("en-US") + suffix;
-                        }
-                    });
-                }
-                );
-            }
-        </script>"
-".        <script>
-            /* Lumora reveal engine v2, fade/slide reveals (NO blur) replacing the
-               Webflow IX2 reveals that no longer fire. Bulletproof: a safety net forces
-               any element still hidden to show, so text/images never stay invisible. */
-            (function () {
-                function runReveals() {
-                    if (!window.gsap) return;
-                    var hasST = !!window.ScrollTrigger;
-                    if (hasST) gsap.registerPlugin(ScrollTrigger);
-                    var els = gsap.utils.toArray('[data-w-id]').filter(function (el) {
-                        var s = el.getAttribute('style') || '';
-                        if (s.indexOf('opacity:0') === -1) return false;
-                        if (el.closest('.navbar_wrap') || el.closest('.w-nav') || el.closest('.w-dropdown-list')) return false;
-                        return true;
-                    });
-                    els.forEach(function (el) {
-                        gsap.set(el, { clearProps: 'transform,filter' });
-                        gsap.fromTo(el,
-                            { opacity: 0, y: 40 },
-                            {
-                                opacity: 1, y: 0, duration: 0.9, ease: 'power2.out',
-                                scrollTrigger: hasST ? { trigger: el, start: 'top 97%', once: true } : undefined
-                            }
-                        );
-                    });
-                    if (hasST) {
-                        window.addEventListener('load', function () { ScrollTrigger.refresh(); });
-                        ScrollTrigger.refresh();
-                    }
-                    /* Safety net: after a beat, force anything still invisible to show */
-                    setTimeout(function () {
-                        els.forEach(function (el) {
-                            if (parseFloat(getComputedStyle(el).opacity) === 0) {
-                                gsap.set(el, { opacity: 1, y: 0, clearProps: 'transform,filter' });
-                            }
-                        });
-                    }, 2600);
-                }
-                if (document.readyState !== 'loading') setTimeout(runReveals, 150);
-                else document.addEventListener('DOMContentLoaded', function () { setTimeout(runReveals, 150); });
-            })();
-        </script>
-<script>
-/* Lumora image guard: any failed/empty image -> on-brand gradient SVG so nothing ever looks broken. */
-(function(){
-  function ph(label){
-    var t=(label||'Lumora Dental').replace(/[<>&]/g,'').slice(0,22);
-    var svg='<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">'
-     +'<defs><linearGradient id="lg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">'
-     +'<stop offset="0" stop-color="#24a3b1"/><stop offset="1" stop-color="#011f23"/></linearGradient></defs>'
-     +'<rect width="1280" height="720" fill="url(#lg)"/>'
-     +'<circle cx="640" cy="298" r="44" fill="#fff" opacity="0.9"/>'
-     +'<text x="640" y="436" fill="#fff" font-family="Sora,Arial" font-size="40" font-weight="600" text-anchor="middle" opacity="0.92">'+t+'</text></svg>';
-    return 'data:image/svg+xml;utf8,'+encodeURIComponent(svg);
-  }
-  function bind(im){
-    im.addEventListener('error',function(){ if(im.dataset.fbk)return; im.dataset.fbk='1'; im.src=ph(im.alt); });
-    if(im.complete && im.naturalWidth===0 && !im.dataset.fbk){ im.dataset.fbk='1'; im.src=ph(im.alt); }
-  }
-  document.querySelectorAll('img').forEach(bind);
-})();
-</script>
+"
+".        
+
 ` }} />
   );
 }

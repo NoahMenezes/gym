@@ -24,3 +24,102 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Legal Pages Styling Fix */
+.legal-wrap {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+.legal-wrap h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #111;
+}
+.legal-wrap h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #222;
+}
+.legal-wrap p, .legal-wrap li {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #4a4a4a;
+  margin-bottom: 1rem;
+}
+.legal-wrap ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.legal-nav {
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #f0f0f0;
+}
+.legal-nav .back {
+  color: #007bff;
+  font-weight: 500;
+  text-decoration: none;
+}
+.legal-foot {
+  text-align: center;
+  padding: 40px 20px;
+  margin-top: 40px;
+  border-top: 1px solid #222;
+  color: #888;
+  font-size: 0.9rem;
+}
+
+/* VIBE CODED GYM THEME - Dark Strong Background & Glowing Green */
+body, .page-wrapper, .section, .navbar_wrap, .footer, .navbar-dropdown_list, .navbar_container {
+  background-color: #0f0f0f !important;
+  color: #ededed !important;
+}
+
+.section_home-hero, .section_about-hero, .section_services {
+  background-color: #151515 !important;
+}
+
+/* Headings and generic text */
+h1, h2, h3, h4, h5, h6, .heading, .text-color-dark {
+  color: #ffffff !important;
+}
+.text-color-gray, .paragraph, p {
+  color: #b0b0b0 !important;
+}
+
+/* Glowing Green Buttons */
+.button_primary, .btn, .button, [class*="button_primary"] {
+  background-color: #00ff66 !important;
+  color: #000000 !important;
+  box-shadow: 0 0 15px rgba(0, 255, 102, 0.6) !important;
+  border: none !important;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+.button_primary:hover, .btn:hover, .button:hover, [class*="button_primary"]:hover {
+  background-color: #00cc55 !important;
+  box-shadow: 0 0 25px rgba(0, 255, 102, 0.9) !important;
+}
+
+/* Links and accents */
+a, .link, .navbar_link {
+  color: #e0e0e0 !important;
+  transition: color 0.3s ease;
+}
+.navbar_link:hover {
+  color: #00ff66 !important;
+}
+
+/* Adjust legal pages for dark mode */
+.legal-wrap h1 { color: #fff !important; }
+.legal-wrap h2 { color: #eee !important; }
+.legal-wrap p, .legal-wrap li { color: #ccc !important; }
+.legal-nav { border-bottom: 1px solid #333 !important; }
+
