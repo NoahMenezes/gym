@@ -1,6 +1,7 @@
 export default function Blog() {
   return (
-    <div suppressHydrationWarning dangerouslySetInnerHTML={{ __html: `
+    <div suppressHydrationWarning dangerouslySetInnerHTML={{
+      __html: `
 <div class="page-wrapper">
 <div class="navbar_wrap w-nav" data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" fs-scrolldisable-element="smart-nav" role="banner">
 <div class="navbar_container">
@@ -112,7 +113,7 @@ export default function Blog() {
 <a class="button_primary w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951 w-inline-block" data-wf--button-primary--variant="light-small" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
-<div class="button_text">Get Appointment</div>
+<div class="button_text">Join</div>
 </div>
 <div class="button-icon_group w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951">
 <div class="button-icon_wrap w-variant-fb89ee7f-8db1-8e54-55c6-075f0151c951">
@@ -629,7 +630,7 @@ export default function Blog() {
 <a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://wa.me/9518346262">
 <div class="button_inner">
 <div class="button-text_wrap">
-<div class="button_text">Get Appointment</div>
+<div class="button_text">Join</div>
 </div>
 <div class="button-icon_group w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec">
 <div class="button-icon_wrap">
