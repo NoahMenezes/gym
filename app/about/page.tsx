@@ -47,7 +47,7 @@ export default function About() {
 <div>Services Details</div>
 </a>
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
-<div>Doctor Details</div>
+<div>Trainer Details</div>
 </a>
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://wa.me/9518346262">
 <div>Contact Us</div>
@@ -363,7 +363,7 @@ export default function About() {
 </h2>
 </div>
 <div class="about-team_para-wrap" id="w-node-_7ca7d48a-77c9-2b74-04de-6d116d75d6cf-965ec33d">
-<p class="about-team_para" data-w-id="bcbebfde-cdd4-c91d-c8fe-58183c27775a" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>Each member of our clinical staff is not only highly qualified but deeply passionate about helping members achieve healthier.</p>
+<p class="about-team_para" data-w-id="bcbebfde-cdd4-c91d-c8fe-58183c27775a" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>Each member of our expert coaching staff is not only highly qualified but deeply passionate about helping members achieve peak fitness and transform their lives.</p>
 </div>
 </div>
 </div>
@@ -696,7 +696,7 @@ export default function About() {
 </div>
 </div>
 <div class="job-description_wrap">
-<p class="job_description">Provide exceptional fitness care using modern techniques and technologies. Build lasting relationships with members while promoting oral health and wellness.</p>
+<p class="job_description">Provide exceptional fitness care using modern techniques and technologies. Build lasting relationships with members while promoting health, strength, and overall wellness.</p>
 </div>
 <div class="job-item_info">
 <div class="job-item_info-box">
@@ -749,7 +749,7 @@ export default function About() {
 </div>
 </div>
 <div class="job-description_wrap">
-<p class="job_description">Assist trainers during procedures while ensuring member comfort and safety. Manage clinical tools and support smooth, efficient operations in the treatment room.</p>
+<p class="job_description">Assist trainers during procedures while ensuring member comfort and safety. Manage gym equipment and support smooth, efficient operations in the workout area.</p>
 </div>
 <div class="job-item_info">
 <div class="job-item_info-box">
@@ -1141,7 +1141,7 @@ export default function About() {
 </h2>
 </div>
 <div class="location-header_para-wrap">
-<p class="location-header_para" data-w-id="a313081b-5ff0-9d58-ad3e-7267b0dcf91a">Two convenient clinics across the USA, bringing quality fitness care closer to you.</p>
+<p class="location-header_para" data-w-id="a313081b-5ff0-9d58-ad3e-7267b0dcf91a">Two convenient gym locations across the USA, bringing quality fitness care closer to you.</p>
 </div>
 </div>
 </div>
@@ -1355,7 +1355,7 @@ export default function About() {
 <div class="footer_info">
 <div class="margin-bottom margin-24px">
 <div class="footer-info_para-wrap">
-<p class="footer-info_para">Advanced technology, a caring team, and treatments designed to keep your strength healthy for life. </p>
+<p class="footer-info_para">Advanced technology, a caring team, and training programs designed to keep your strength healthy for life. </p>
 </div>
 </div>
 <a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://wa.me/9518346262">

@@ -47,7 +47,7 @@ export default function Service() {
 <div>Services Details</div>
 </a>
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
-<div>Doctor Details</div>
+<div>Trainer Details</div>
 </a>
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://wa.me/9518346262">
 <div>Contact Us</div>
@@ -155,7 +155,7 @@ export default function Service() {
 <h1 class="heading" hero-text-split="">Comprehensive Fitness Care, Tailored to You</h1>
 </div>
 <div class="margin-bottom margin-32px">
-<p class="service-hero_para" data-w-id="59b2fde7-5646-6fb1-97dc-254647c27746" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>From routine checkups to advanced treatments, we provide personalized fitness services designed to keep your strength healthy and confident.</p>
+<p class="service-hero_para" data-w-id="59b2fde7-5646-6fb1-97dc-254647c27746" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>From routine checkups to advanced training programs, we provide personalized fitness services designed to keep your strength healthy and confident.</p>
 </div>
 <div class="button-container" data-w-id="5f774497-131f-4226-a960-b1cc3476ff65" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>
 <a class="button_primary w-inline-block" data-wf--button-primary--variant="base" href="https://wa.me/9518346262">
@@ -213,7 +213,7 @@ export default function Service() {
 <div class="service-item_wrap">
 <div class="service-item_trigger">
 <div class="service-trigger_content-wrap">
-<h3 class="service-trigger_title">Preventive gym</h3>
+<h3 class="service-trigger_title">Preventive Fitness</h3>
 <div class="service-trigger_para-wrap">
 <p class="service-trigger_para">At Iron, we combine expertise, compassion, and modern technology</p>
 </div>
@@ -256,7 +256,7 @@ export default function Service() {
 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM17.4571 9.45711L11 15.9142L6.79289 11.7071L8.20711 10.2929L11 13.0858L16.0429 8.04289L17.4571 9.45711Z" fill="white"></path>
 </svg>
 </div>
-<div>Oral Health</div>
+<div>Strength Training</div>
 </div>
 <div class="service_tag">
 <div class="service-tag_icon">
@@ -264,7 +264,7 @@ export default function Service() {
 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM17.4571 9.45711L11 15.9142L6.79289 11.7071L8.20711 10.2929L11 13.0858L16.0429 8.04289L17.4571 9.45711Z" fill="white"></path>
 </svg>
 </div>
-<div>Whitening</div>
+<div>Muscle Toning</div>
 </div>
 </div>
 <div class="button-container">
@@ -297,9 +297,9 @@ export default function Service() {
 <div class="service-item_wrap">
 <div class="service-item_trigger">
 <div class="service-trigger_content-wrap">
-<h3 class="service-trigger_title">Cosmetic gym</h3>
+<h3 class="service-trigger_title">Body Conditioning</h3>
 <div class="service-trigger_para-wrap">
-<p class="service-trigger_para">From whitening to veneers, we help you achieve the bright, confident strength you’ve always wanted.</p>
+<p class="service-trigger_para">From muscle toning to custom fitness routines, we help you achieve the bright, confident strength you’ve always wanted.</p>
 </div>
 </div>
 <div class="service-trigger_icon-wrap">
@@ -324,7 +324,7 @@ export default function Service() {
 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM17.4571 9.45711L11 15.9142L6.79289 11.7071L8.20711 10.2929L11 13.0858L16.0429 8.04289L17.4571 9.45711Z" fill="white"></path>
 </svg>
 </div>
-<div>Muscles Whitening</div>
+<div>Body Sculpting</div>
 </div>
 <div class="service_tag">
 <div class="service-tag_icon">
@@ -332,7 +332,7 @@ export default function Service() {
 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM17.4571 9.45711L11 15.9142L6.79289 11.7071L8.20711 10.2929L11 13.0858L16.0429 8.04289L17.4571 9.45711Z" fill="white"></path>
 </svg>
 </div>
-<div>Fitness Veneers</div>
+<div>Postural Correction</div>
 </div>
 <div class="service_tag">
 <div class="service-tag_icon">
@@ -348,7 +348,7 @@ export default function Service() {
 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM17.4571 9.45711L11 15.9142L6.79289 11.7071L8.20711 10.2929L11 13.0858L16.0429 8.04289L17.4571 9.45711Z" fill="white"></path>
 </svg>
 </div>
-<div>Cosmetic Bonding</div>
+<div>Flexibility Training</div>
 </div>
 </div>
 <div class="button-container">
@@ -381,7 +381,7 @@ export default function Service() {
 <div class="service-item_wrap">
 <div class="service-item_trigger">
 <div class="service-trigger_content-wrap">
-<h3 class="service-trigger_title">Restorative treatments</h3>
+<h3 class="service-trigger_title">Restorative training programs</h3>
 <div class="service-trigger_para-wrap">
 <p class="service-trigger_para">Fillings, crowns, implants, and more to restore the function and beauty of your strength.</p>
 </div>
@@ -408,7 +408,7 @@ export default function Service() {
 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM17.4571 9.45711L11 15.9142L6.79289 11.7071L8.20711 10.2929L11 13.0858L16.0429 8.04289L17.4571 9.45711Z" fill="white"></path>
 </svg>
 </div>
-<div>Fitness Fillings</div>
+<div>Endurance Training</div>
 </div>
 <div class="service_tag">
 <div class="service-tag_icon">
@@ -424,7 +424,7 @@ export default function Service() {
 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM17.4571 9.45711L11 15.9142L6.79289 11.7071L8.20711 10.2929L11 13.0858L16.0429 8.04289L17.4571 9.45711Z" fill="white"></path>
 </svg>
 </div>
-<div>Muscle Repair</div>
+<div>Injury Recovery</div>
 </div>
 <div class="service_tag">
 <div class="service-tag_icon">
@@ -432,7 +432,7 @@ export default function Service() {
 <path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22ZM17.4571 9.45711L11 15.9142L6.79289 11.7071L8.20711 10.2929L11 13.0858L16.0429 8.04289L17.4571 9.45711Z" fill="white"></path>
 </svg>
 </div>
-<div>Fitness Implants</div>
+<div>Hypertrophy Training</div>
 </div>
 </div>
 <div class="button-container">
@@ -465,7 +465,7 @@ export default function Service() {
 <div class="service-item_wrap">
 <div class="service-item_trigger">
 <div class="service-trigger_content-wrap">
-<h3 class="service-trigger_title">Orthodontics</h3>
+<h3 class="service-trigger_title">Posture & Mobilitys</h3>
 <div class="service-trigger_para-wrap">
 <p class="service-trigger_para">Straighten your muscles and improve your bite with modern braces or clear aligners designed.</p>
 </div>
@@ -624,7 +624,7 @@ export default function Service() {
 </div>
 <div class="faq_description">
 <div class="faq-description_inner">
-<p>We recommend a routine fitness checkup every six months to maintain optimal oral health and catch any issues early.</p>
+<p>We recommend a consistent workout routine every week to maintain optimal physical health and catch any issues early.</p>
 </div>
 </div>
 </a>
@@ -644,7 +644,7 @@ export default function Service() {
 </a>
 <a class="faq_item w-inline-block w-tab-link" data-w-tab="Tab 3">
 <div class="faq_header">
-<div class="faq-header_title">Are your treatments painful?</div>
+<div class="faq-header_title">Are your training programs painful?</div>
 <div class="faq-header_icon-wrap">
 <div class="faq-header_icon-line"></div>
 <div class="faq-header_icon-line is-absolute"></div>
@@ -652,7 +652,7 @@ export default function Service() {
 </div>
 <div class="faq_description">
 <div class="faq-description_inner">
-<p>Most treatments are comfortable with modern techniques and anesthesia, ensuring minimal pain and a stress-free experience.</p>
+<p>Most training programs are comfortable with modern techniques and proper coaching, ensuring minimal pain and a stress-free experience.</p>
 </div>
 </div>
 </a>
@@ -769,7 +769,7 @@ export default function Service() {
 <div class="footer_info">
 <div class="margin-bottom margin-24px">
 <div class="footer-info_para-wrap">
-<p class="footer-info_para">Advanced technology, a caring team, and treatments designed to keep your strength healthy for life. </p>
+<p class="footer-info_para">Advanced technology, a caring team, and training programs designed to keep your strength healthy for life. </p>
 </div>
 </div>
 <a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://wa.me/9518346262">

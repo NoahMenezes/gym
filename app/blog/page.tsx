@@ -47,7 +47,7 @@ export default function Blog() {
 <div>Services Details</div>
 </a>
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="/about">
-<div>Doctor Details</div>
+<div>Trainer Details</div>
 </a>
 <a class="navbar-dropdown_link w-inline-block" data-animation="text-flip" href="https://wa.me/9518346262">
 <div>Contact Us</div>
@@ -153,7 +153,7 @@ export default function Blog() {
 <div class="blog_header">
 <h1 data-w-id="2302474f-6bba-a7ff-4dba-3e5a91ca8caa" hero-text-split="" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>Insights for a Healthier Strength</h1>
 <div class="blog-header_para" id="w-node-_2302474f-6bba-a7ff-4dba-3e5a91ca8cac-965ec343">
-<p class="body-text-18px" data-w-id="2302474f-6bba-a7ff-4dba-3e5a91ca8cad" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>From everyday habits to advanced treatments, our fitness experts share insights </p>
+<p class="body-text-18px" data-w-id="2302474f-6bba-a7ff-4dba-3e5a91ca8cad" style={{-webkit-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0}}>From everyday habits to advanced training programs, our fitness experts share insights </p>
 </div>
 </div>
 </div>
@@ -177,7 +177,7 @@ export default function Blog() {
 <div>Preventive Care</div>
 </div>
 <div class="feature-blog_info">
-<div class="feature-blog_info-text">Oral Health Tips</div>
+<div class="feature-blog_info-text">Fitness & Nutrition Tips</div>
 <div class="feature-blog_info-divider"></div>
 <div class="feature-blog_info-text">April 30, 2026</div>
 </div>
@@ -188,7 +188,7 @@ export default function Blog() {
 <h2 class="feature-blog_title">The ultimate guide to brushing: are you doing it right?</h2>
 </a>
 </div>
-<p class="feature-blog_text">Discover how cosmetic gym treatments can transform your strength, improve appearance, and boost your confidence with personalized solutions designed for natural, lasting results.</p>
+<p class="feature-blog_text">Discover how cosmetic gym training programs can transform your strength, improve appearance, and boost your confidence with personalized solutions designed for natural, lasting results.</p>
 </div>
 <div class="feature-blog_button">
 <a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="/blog">
@@ -361,7 +361,7 @@ export default function Blog() {
 <div class="blog-content_wrap">
 <div class="blog-item_content">
 <div class="blog-item_content-inner">
-<h2 class="blog-item_title">How veneers can you completely transform your strength</h2>
+<h2 class="blog-item_title">How custom fitness routines can you completely transform your strength</h2>
 <div class="blog-item_cta">
 <div>Read More</div>
 <div class="blog-item_icon-wrap">
@@ -479,7 +479,7 @@ export default function Blog() {
 </div>
 <div class="faq_description">
 <div class="faq-description_inner">
-<p>We recommend a routine fitness checkup every six months to maintain optimal oral health and catch any issues early.</p>
+<p>We recommend a consistent workout routine every week to maintain optimal physical health and catch any issues early.</p>
 </div>
 </div>
 </a>
@@ -499,7 +499,7 @@ export default function Blog() {
 </a>
 <a class="faq_item w-inline-block w-tab-link" data-w-tab="Tab 3">
 <div class="faq_header">
-<div class="faq-header_title">Are your treatments painful?</div>
+<div class="faq-header_title">Are your training programs painful?</div>
 <div class="faq-header_icon-wrap">
 <div class="faq-header_icon-line"></div>
 <div class="faq-header_icon-line is-absolute"></div>
@@ -507,7 +507,7 @@ export default function Blog() {
 </div>
 <div class="faq_description">
 <div class="faq-description_inner">
-<p>Most treatments are comfortable with modern techniques and anesthesia, ensuring minimal pain and a stress-free experience.</p>
+<p>Most training programs are comfortable with modern techniques and proper coaching, ensuring minimal pain and a stress-free experience.</p>
 </div>
 </div>
 </a>
@@ -624,7 +624,7 @@ export default function Blog() {
 <div class="footer_info">
 <div class="margin-bottom margin-24px">
 <div class="footer-info_para-wrap">
-<p class="footer-info_para">Advanced technology, a caring team, and treatments designed to keep your strength healthy for life. </p>
+<p class="footer-info_para">Advanced technology, a caring team, and training programs designed to keep your strength healthy for life. </p>
 </div>
 </div>
 <a class="button_primary w-variant-62db4792-8717-dbe8-e811-0d36eb02f9ec w-inline-block" data-wf--button-primary--variant="light" href="https://wa.me/9518346262">

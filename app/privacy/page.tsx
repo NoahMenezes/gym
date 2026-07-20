@@ -18,7 +18,7 @@ export default function Privacy() {
 <li>To send appointment reminders and, only with your consent, occasional practice updates.</li>
 </ul>
 <h2>How we protect it</h2>
-<p>We treat your health and contact information as confidential and store it securely. We never sell your personal data. We share it only with the clinicians and systems directly involved in your care, or where required by law.</p>
+<p>We treat your health and contact information as confidential and store it securely. We never sell your personal data. We share it only with the coaches and systems directly involved in your care, or where required by law.</p>
 <h2>Your choices</h2>
 <p>You may request access to, correction of, or deletion of your information at any time by emailing <a href="mailto:contact@vgenstudio.com">contact@vgenstudio.com</a>. You can opt out of non-essential communications whenever you like.</p>
 <h2>Contact</h2>

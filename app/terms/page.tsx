@@ -10,7 +10,7 @@ export default function Terms() {
 <p class="updated">Last updated: June 2026</p>
 <p>Welcome to Iron Fitness. By using this website and booking appointments through it, you agree to the following terms. Please read them carefully.</p>
 <h2>Use of this website</h2>
-<p>The content on this site is provided for general information about our fitness services. It is not a substitute for professional medical or fitness advice, diagnosis, or treatment. Always consult a qualified clinician about your specific situation.</p>
+<p>The content on this site is provided for general information about our fitness services. It is not a substitute for professional medical or fitness advice, diagnosis, or training program. Always consult a qualified fitness coach about your specific situation.</p>
 <h2>Appointments</h2>
 <ul>
 <li>Bookings made through our scheduling page are requests confirmed by our team.</li>
@@ -20,7 +20,7 @@ export default function Terms() {
 <h2>Intellectual property</h2>
 <p>All text, images, logos, and design elements on this site are the property of Iron Fitness and may not be reproduced without permission.</p>
 <h2>Limitation of liability</h2>
-<p>Iron Fitness is not liable for any indirect or incidental damages arising from the use of this website. Treatment outcomes vary between individuals and are discussed with you directly during your visit.</p>
+<p>Iron Fitness is not liable for any indirect or incidental damages arising from the use of this website. Fitness results vary between individuals and are discussed with you directly during your consultation.</p>
 <h2>Contact</h2>
 <p>For any questions about these terms, contact <a href="mailto:contact@vgenstudio.com">contact@vgenstudio.com</a>.</p>
 </main>
